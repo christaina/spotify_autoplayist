@@ -90,7 +90,14 @@ if __name__=='__main__':
     print(f"Previously indexed at {old_last_indexed}")
     filt_song_history = filt_by_last_idxed(recent_songs_df, old_last_indexed)
     print(f"Found {len(filt_song_history)} new songs in your history!")
-    filt_song_history.to_csv(song_history_path, index=False, mode='a')
+
+    save_dir = os.path.dirname(song_history_path)
+    if not os.path.exists(save_dir):
+        os.makedirs(save_dir)
+
+    # append with header if file is new, else no header
+    incl_header = not os.path.exists(song_history_path)
+    filt_song_history.to_csv(song_history_path, index=False, mode='a', header=incl_header)
 
     # save the new index date (latest played_at timestamp)
     new_last_indexed = (find_last_indexed(recent_songs_df, last_idx_path))

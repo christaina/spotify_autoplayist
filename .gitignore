@@ -1,2 +1,4 @@
 data/
 .cache*
+*.py.swp
+.ipynb_checkpoints/
