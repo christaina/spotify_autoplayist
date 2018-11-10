@@ -1,0 +1,36 @@
+path.link {
+  fill: none;
+  /*stroke: #D3D3D3;*/
+  stroke-width: 1.5px;
+   opacity: 0.3;
+}
+
+marker#licensing {
+  fill: green;
+}
+/*
+path.link.test {
+  stroke: pink;
+}*/
+
+path.link.resolved {
+  stroke-dasharray: 0,2 1;
+}
+
+circle {
+  fill: #ccc;
+  stroke: #333;
+  stroke-width: 1.5px;
+  opacity: 0.5;
+}
+
+text {
+  font: 10px sans-serif;
+  pointer-events: none;
+}
+
+text.shadow {
+  stroke: #fff;
+  stroke-width: 3px;
+  stroke-opacity: .8;
+}
