@@ -2,16 +2,9 @@
 var links;
 var my_nodes;
 d3.json('https://raw.githubusercontent.com/christaina/spotify_autoplayist/graphs/graphs/graph.json', function( data) {
-  //console.log(data)
- // console.long('endata')
  console.log(data)
   var links = data['links']
   var my_nodes = data['nodes']
-  //my_links = json;
-  
-  
-  console.log(data['nodes'])
-
 
 
 //sort links by source, then target

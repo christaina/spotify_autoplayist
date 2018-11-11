@@ -71,8 +71,8 @@ def filt_by_last_idxed(song_df, last_indexed):
 if __name__=='__main__':
     scope = 'user-read-recently-played'
     username='121027976'
-    last_idx_path='data/last_indexed.txt'
-    song_history_path = 'data/song_history.csv'
+    last_idx_path='song_hist/last_indexed.txt'
+    song_history_path = 'song_hist/song_history.csv'
 
     # setup
     token = util.prompt_for_user_token(username, scope)
