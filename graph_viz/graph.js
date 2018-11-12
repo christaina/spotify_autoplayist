@@ -1,7 +1,6 @@
-
 var links;
 var my_nodes;
-d3.json('https://raw.githubusercontent.com/christaina/spotify_autoplayist/graphs/graphs/graph.json', function( data) {
+d3.json('graph.json', function(error, data) {
  console.log(data)
   var links = data['links']
   var my_nodes = data['nodes']
@@ -48,7 +47,7 @@ var force = d3.layout.force()
     .links(links)
     .size([w, h])
     .linkDistance(50)
-    .charge(-500)
+    .charge(-800)
     .on("tick", tick)
     .linkStrength(function(link) {
        // return Math.log(parseFloat(link.dist), 10)/5.
