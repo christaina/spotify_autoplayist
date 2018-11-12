@@ -6,3 +6,5 @@ export SPOTIPY_REDIRECT_URI=http://localhost:8888/callback
 
 cd /root/spotify_autoplayist/
 /root/miniconda3/envs/spot/bin/python index_songs.py
+/root/miniconda3/envs/spot/bin/python make_graph.py
+git add graph_viz/graph.json && git commit -m 'update graph' && git push
