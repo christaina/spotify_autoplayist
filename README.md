@@ -2,6 +2,10 @@
 
 A project to store my song history and eventually do data viz + automatic playlist generation!!
 
+# Visualization
+
+View graph visualization [here](https://christaina.github.io/spotify_autoplayist/graph_viz/)
+
 # Environment
 
 Create the conda environment I used for this project with 
