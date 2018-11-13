@@ -47,8 +47,8 @@ def make_graph(df, counts):
 
 
 if __name__=="__main__":
-    song_hist_path = 'song_hist/song_history.csv'
-    graph_save_path = 'graph_viz/graph.json'
+    song_hist_path = '../song_hist/song_history.csv'
+    graph_save_path = '../graph_viz/graph.json'
 
     graph_cnt_threshold = 1 
     song_grp_threshold = 60 * 10 
