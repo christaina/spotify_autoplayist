@@ -1,6 +1,6 @@
 # Visualizing Spotify Listening Patterns
 
-I wanted to write up a quick summary of my methodology and takeaways for the [data visualization](https://christaina.github.io/spotify_autoplayist/graph_viz/) of my Spotify listening history. There's a lot of stuff I'd like to do/fix in the future so I want to outline that here as well.
+I wanted to write up a quick summary of my methodology and takeaways for the data visualization of my Spotify listening history. There's a lot of stuff I'd like to do/fix in the future so I want to outline that here as well. You can view the visualization [here](https://christaina.github.io/spotify_autoplayist/graph_viz/).
 
 ## Motivation
 
