@@ -1,29 +1,844 @@
 artists,explicit,id,name,played_at
-The Dear Hunter,False,2lMGV7K3osX4BncAn13Ea5,Blame Paradise,2018-11-10T19:33:48.321Z
-The Dear Hunter,False,1DmaLXSurJ0OixnQnNI4Jy,The Right Wrong,2018-11-10T19:30:07.974Z
-"Bassnectar, Seth Drake",False,7vFQliBjsAIfpteEzYOCOS,F.U.N.,2018-11-10T19:25:27.941Z
-Part Time,False,1iJSpNeq4XleP4BOcPwMXt,Honey Lips,2018-11-10T19:20:45.541Z
-Ariana Grande,True,5OCJzvD7sykQEKHH7qAC3C,God is a woman,2018-11-10T19:17:46.064Z
-Plini,False,7EI0LzrtgucQujRzDd0D3m,Salt + Charcoal,2018-11-10T18:25:02.868Z
-Plini,False,28uTV1xcMTcIPTsKVbyhFV,Electric Sunrise,2018-11-10T18:20:32.948Z
-Sia,False,1N1ZpYUJc9fwrqk53FGgWv,Santa's Coming For Us,2018-11-10T18:15:29.450Z
-Pentatonix,False,4z8sz6E4YyFuEkv5o7IJni,"Mary, Did You Know?",2018-11-10T18:08:38.150Z
-"Mr. Projectile, Bassnectar",False,5qRoiTrXaFA5qHYsoeNdYG,I Am Back - Bassnectar Remix,2018-11-10T18:05:15.724Z
-Ariana Grande,True,14kYOiFVPb7E7NfFbqhdln,goodnight n go,2018-11-10T01:39:59.006Z
-Ariana Grande,True,5OCJzvD7sykQEKHH7qAC3C,God is a woman,2018-11-10T01:38:50.441Z
-Eminem,True,7lQ8MOhq6IN2w8EYcFNSUk,Without Me,2018-11-10T01:35:32.675Z
-Pentatonix,False,4z8sz6E4YyFuEkv5o7IJni,"Mary, Did You Know?",2018-11-10T01:30:41.884Z
-"Bassnectar, Lafa Taylor",False,1ti43ZT6bc4o1eGOSnBHkO,Speakerbox (feat. Lafa Taylor),2018-11-10T01:27:17.786Z
-"Bassnectar, Jantsen, RD",False,3wWOi4PlqODQJVhN6PY2lQ,Heavyweight Sound (feat. RD),2018-11-10T01:22:26.422Z
-"Bassnectar, W. Darling",False,3x94KfC5QAsqFKjUGQBH4k,You & Me (feat. W. Darling),2018-11-09T21:33:51.757Z
-"Bassnectar, Seth Drake",False,7vFQliBjsAIfpteEzYOCOS,F.U.N.,2018-11-09T21:29:24.151Z
-Wintergatan,False,33m0aVQvsfvanuwG6rByrd,Sommarfågel - Bassnectar Remix,2018-11-09T21:24:41.617Z
-"Bassnectar, Jantsen, RD",False,3wWOi4PlqODQJVhN6PY2lQ,Heavyweight Sound (feat. RD),2018-11-09T21:21:41.003Z
-"Bassnectar, Lafa Taylor",False,1ti43ZT6bc4o1eGOSnBHkO,Speakerbox (feat. Lafa Taylor),2018-11-09T21:17:02.429Z
-"Rusko, Bassnectar",False,4iPzWylVMumfmvSaF0zmPg,High - Bassnectar Remix,2018-11-09T21:17:01.998Z
-"Bassnectar, Jantsen, RD",False,3wWOi4PlqODQJVhN6PY2lQ,Heavyweight Sound (feat. RD),2018-11-09T20:25:24.014Z
-Pentatonix,False,4z8sz6E4YyFuEkv5o7IJni,"Mary, Did You Know?",2018-11-09T20:20:32.852Z
-"Charli XCX, MØ",False,5cAokEuetqzaLMxhtQl4h2,Porsche (feat. MØ),2018-11-09T20:17:10.385Z
+"Bassnectar, Jantsen, RD",False,3wWOi4PlqODQJVhN6PY2lQ,Heavyweight Sound (feat. RD),2018-10-04T21:36:32.794Z
+"Gogol Bordello, Bassnectar",False,7n438weMmNV8rnv91GCyZP,Immigraniada - Bassnectar Remix,2018-10-04T21:31:55.203Z
+Bassnectar,False,2MdbVjVnZORe2ZH3OSb8VL,Flash Back,2018-10-04T21:30:03.151Z
+"Bassnectar, At Dawn We Rage",False,6t1Sdcuk0s3BPtgtel5b5F,Flash Back (At Dawn We Rage Remix),2018-10-04T21:25:51.308Z
+"Bassnectar, Amp Live, BEGINNERS, Infuze",False,6CmXO6AvAm4yeOtH6Au8eG,Mystery Song (Infuze Remix),2018-10-04T21:22:04.471Z
+"Bassnectar, W. Darling",False,3x94KfC5QAsqFKjUGQBH4k,You & Me (feat. W. Darling),2018-10-04T21:17:29.239Z
+"Bassnectar, Seth Drake",False,7vFQliBjsAIfpteEzYOCOS,F.U.N.,2018-10-04T21:13:24.466Z
+Hermitude,False,1LQiF6aZfnNgxerxWJRbxw,HyperParadise - Flume Remix,2018-10-04T21:08:43.058Z
+Flume,False,0fnwkQrgavFSaGZaCmjqsY,Ezra,2018-10-04T20:59:22.354Z
+Yolanda Be Cool,False,0Y89aJDvqYs1Zyv7NMGx3s,A Baru in New York - Flume Soundtrack Version [Bonus Track],2018-10-04T20:55:44.690Z
+"Flume, Moon Holiday",False,0ULEBRTLZhgKisTpgKzAuB,Insane,2018-10-04T20:50:06.631Z
+Flume,False,2mzJR8lnV8NPpiLBSTWR3l,Heater,2018-10-04T20:46:32.317Z
+"Flume, Chet Faker",False,150zGw0P2EJccYJKnFIler,Drop The Game,2018-10-04T20:42:26.515Z
+"Flume, KUČKA",False,5NsruZ9uIydV0A196WZjkV,Hyperreal,2018-10-04T20:38:44.101Z
+Flume,False,2ahW5IyuKcFCTnyV7gEvIC,Helix,2018-10-04T20:34:29.548Z
+"Flume, Tove Lo, Illenium",True,1wfZdPy5FRWsdWaAEOG0Ml,Say It - Illenium Remix,2018-10-04T20:30:58.790Z
+Flume,False,1QgGyNtuFClzvZnNCofqsF,Warm Thoughts,2018-10-04T20:26:31.122Z
+"Bassnectar, Rye Rye",False,05XsaFSfkfX1gp1B8McXen,Now (feat. Rye Rye),2018-10-04T20:22:43.920Z
+"Bassnectar, Seth Drake",False,7vFQliBjsAIfpteEzYOCOS,F.U.N.,2018-10-04T20:05:30.340Z
+Grimes,True,6pfmQTZWmwL2H2BpdzSl8l,Butterfly,2018-10-04T20:01:09.489Z
+Grimes,False,4EbkpSxyWfJcpqzO2MzPz7,Pin,2018-10-04T18:56:35.567Z
+Grimes,False,7d3cx47aWj0XbW7mLXXT9u,Easily,2018-10-04T18:47:17.305Z
+Grimes,False,17eu2pSgSUpIG1GFWBnODv,Kill V. Maim,2018-10-04T18:39:50.519Z
+Grimes,False,2HatzmU2P4RehpC0GYyfUQ,Life in the Vivid Dream,2018-10-04T18:24:57.784Z
+Grimes,False,6MosFTZp4A2oSTER4GO9HS,laughing and not being normal,2018-10-04T18:23:29.562Z
+Bassnectar,False,3XEEKal4SZalmHKHf7fCMJ,So Butterfly (2014 Version),2018-10-04T18:21:42.752Z
+"Bassnectar, W. Darling",False,3x94KfC5QAsqFKjUGQBH4k,You & Me (feat. W. Darling),2018-10-04T18:19:59.676Z
+"Bassnectar, Seth Drake",False,7vFQliBjsAIfpteEzYOCOS,F.U.N.,2018-10-04T18:15:54.914Z
+"ZAYN, Sia",False,1j4kHkkpqZRBwE0A4CN4Yv,Dusk Till Dawn - Radio Edit,2018-10-04T18:11:12.411Z
+"A R I Z O N A, Kiiara",False,6JsfvqClYnc2R5yZ67C2ch,Cross My Mind Pt. 2 (feat. Kiiara),2018-10-04T18:07:14.262Z
+"Cosmo's Midnight, KUČKA",False,17CULb9h3QZa1IxJSVT31m,Walk With Me,2018-10-04T18:04:28.602Z
+Dexys Midnight Runners,False,1oxO4x680qvy6C5UJeSqx8,Come On Eileen,2018-10-04T18:00:14.705Z
+Alvvays,False,7LrXFickWIWFhJ65XC5vNI,The Agency Group,2018-10-04T17:56:10.279Z
+"Alan Walker, David Whistle",False,19TSNGmvdTtlxYn4YqYUMf,Routine,2018-10-04T17:51:38.505Z
+"Little Mix, Kid Ink",False,1lajonKp1KMdiu86QjEoG7,Touch,2018-10-04T17:48:51.078Z
+"Lights Follow, Matthew Heath, Grady Griggs",False,5WBxAaS9nNnWTH469p0Ht0,Slow Down (feat. Matthew Heath & Grady Griggs),2018-10-04T17:45:27.574Z
+"Infected Mushroom, Paranormal Attack, Skazi",False,50tUMn6P26omoBXM7T3PQE,Saeed - Paranormal Attack & Skazi Remix,2018-10-04T17:41:57.194Z
+Lily Allen,False,2fcFWA4AeNcbCTut4o4fn4,Who'd Have Known,2018-10-04T17:36:33.285Z
+"Bassnectar, W. Darling",False,3x94KfC5QAsqFKjUGQBH4k,You & Me (feat. W. Darling),2018-10-04T17:26:55.091Z
+"Bassnectar, Seth Drake",False,7vFQliBjsAIfpteEzYOCOS,F.U.N.,2018-10-04T17:19:02.840Z
+"Bassnectar, Lafa Taylor",False,1ti43ZT6bc4o1eGOSnBHkO,Speakerbox (feat. Lafa Taylor),2018-10-04T17:14:11.610Z
+"Bassnectar, Jantsen, RD",False,3wWOi4PlqODQJVhN6PY2lQ,Heavyweight Sound (feat. RD),2018-10-04T17:09:28.893Z
+"Bassnectar, LUZCID",False,0vVweaPkDhix5YZBU7sU3o,Science Fiction,2018-10-04T17:04:49.790Z
+David Heartbreak,False,6RBdbgLbOwDZ01OuMzsckx,Rose Colored Bass - Bassnectar Remix,2018-10-04T16:59:36.431Z
+"Bassnectar, W. Darling",False,3x94KfC5QAsqFKjUGQBH4k,You & Me (feat. W. Darling),2018-10-04T16:55:53.190Z
+"Bassnectar, Seth Drake",False,7vFQliBjsAIfpteEzYOCOS,F.U.N.,2018-10-04T16:51:48.402Z
+The Dear Hunter,False,5nqEGZMdz5P3Z8t26WeMMN,The Bitter Suite III: Embrace,2018-10-04T16:41:10.175Z
+The Glitch Mob,False,0hUjW8abCqrRDzZhNDY887,Mind of a Beast,2018-10-04T16:04:12.935Z
+"Bassnectar, W. Darling",False,3x94KfC5QAsqFKjUGQBH4k,You & Me (feat. W. Darling),2018-10-04T15:12:46.728Z
+"Bassnectar, Seth Drake",False,7vFQliBjsAIfpteEzYOCOS,F.U.N.,2018-10-04T15:08:43.183Z
+"Bassnectar, Lafa Taylor",False,1ti43ZT6bc4o1eGOSnBHkO,Speakerbox (feat. Lafa Taylor),2018-10-04T21:41:15.623Z
+Bassnectar,False,23A2fVIHaq2xj5WXidEH6o,Loco Ono,2018-10-04T21:44:21.517Z
+Miranda!,True,5BaWu0bYT7XPaIYyXJOZvJ,Tu Misterioso Alguien,2018-10-04T22:01:16.966Z
+Bassnectar,False,1J6OxoJByUrfwA4Fm65yCR,Falling feat. Paper Machete,2018-10-04T21:57:18.933Z
+David Heartbreak,False,6RBdbgLbOwDZ01OuMzsckx,Rose Colored Bass - Bassnectar Remix,2018-10-04T22:28:22.910Z
+"Bassnectar, SPL",False,2yPXXcJHS4nqx7AGXWZhia,Bass Head (SPL Remix),2018-10-04T22:33:31.790Z
+"Bassnectar, Jantsen",False,4umWM9ajmlpIOP5UnxTgnF,What,2018-10-04T22:42:46.026Z
+"Bassnectar, Conrank",False,6dzYRxTPAspTmQDOnhl67O,Easy Does It,2018-10-04T22:37:50.736Z
+"Bassnectar, Jantsen, RD",False,3wWOi4PlqODQJVhN6PY2lQ,Heavyweight Sound (feat. RD),2018-10-05T15:04:57.501Z
+Billy Ocean,False,7LZj2ty0qFTI8qRPFmnejr,Caribbean Queen (No More Love On the Run),2018-10-05T15:00:18.381Z
+"Bassnectar, W. Darling",False,3x94KfC5QAsqFKjUGQBH4k,You & Me (feat. W. Darling),2018-10-05T14:56:13.761Z
+"Bassnectar, Seth Drake",False,7vFQliBjsAIfpteEzYOCOS,F.U.N.,2018-10-05T14:52:09.171Z
+"Bassnectar, W. Darling",False,3x94KfC5QAsqFKjUGQBH4k,You & Me (feat. W. Darling),2018-10-05T04:13:27.239Z
+RADWIMPS,False,6RM5WJcShIHsxrja11M1iK,Nandemonaiya - movie edit.,2018-10-05T01:16:04.237Z
+"Bassnectar, W. Darling",False,3x94KfC5QAsqFKjUGQBH4k,You & Me (feat. W. Darling),2018-10-05T00:37:53.846Z
+"Bassnectar, Seth Drake",False,7vFQliBjsAIfpteEzYOCOS,F.U.N.,2018-10-05T00:33:49.220Z
+Alvvays,False,4B0DKl08l4AJflQmZkEDvQ,Lollipop (Ode To Jim),2018-10-05T00:29:07.569Z
+Charli XCX,False,1KPS1MHPrq9uPklJX8Q4XW,ILY2,2018-10-05T00:25:53.691Z
+Alvvays,False,5HLes17mwCwKt81mi0Tk35,"Archie, Marry Me",2018-10-05T00:22:36.267Z
+"Circa Survive, Rachel Minton (Zolof The Rock & Roll Destroyer)",False,6oAC6jjtklofa5Du1dhetx,Suitcase (feat. Rachel Minton of Zolof The Rock And Roll Destroyer),2018-10-05T00:19:20.753Z
+"A R I Z O N A, Kiiara",False,6JsfvqClYnc2R5yZ67C2ch,Cross My Mind Pt. 2 (feat. Kiiara),2018-10-05T00:17:04.819Z
+Martin Jensen,False,3R6dPfF2yBO8mHySW1XDAa,Solo Dance,2018-10-05T00:11:42.699Z
+Pendulum,False,5E1UIRcuHd7Rr7PYbQSEOu,Set Me On Fire,2018-10-04T23:25:36.150Z
+"Cardi B, Bad Bunny, J Balvin",True,58q2HKrzhC3ozto2nDdN4z,I Like It,2018-10-04T23:20:00.703Z
+"Bassnectar, Seth Drake",False,7vFQliBjsAIfpteEzYOCOS,F.U.N.,2018-10-04T23:15:48.656Z
+Infected Mushroom,False,7FH38uzPfigJoT92TCe3sx,Wanted To,2018-10-04T23:10:24.377Z
+"Bassnectar, G Jones, Lafa Taylor",False,11Cz8Naeb1fIOqtkkPVNzg,Mind Tricks,2018-10-04T22:57:59.296Z
+"Bassnectar, Lafa Taylor, G Jones",False,0j3qOr8Lnn0Ej1J2hCNwpo,Don't Hate The 808 (G Jones Remix),2018-10-04T22:54:05.670Z
+"Bassnectar, D.V.S*",False,6veGXXMZLNEVYyB8bipmAv,So Butterfly (2014 Version) [D.V.S* Remix],2018-10-04T22:51:11.171Z
+"Bassnectar, Gnar Gnar",False,5fOOpgIMtSufjWfqE83jIb,Dream Catcher,2018-10-04T22:46:54.037Z
+OVERWERK,False,3rgrZZEyfn05s56Rf1Yuj2,Reign,2018-10-05T15:36:29.284Z
+David Heartbreak,False,6RBdbgLbOwDZ01OuMzsckx,Rose Colored Bass - Bassnectar Remix,2018-10-05T15:31:55.991Z
+Bassnectar,False,7GjDrmA3Ks75pTQiHLWt6d,After Thought,2018-10-05T15:31:54.488Z
+Part Time,False,1iJSpNeq4XleP4BOcPwMXt,Honey Lips,2018-10-05T15:46:52.263Z
+Maya,False,5A73Nnju5DCi8EV6wPvI5H,Lait de coco - Dub,2018-10-05T15:43:53.173Z
+Zombie Nation,False,7g8cjrj0sXScNE727685JE,"Kernkraft 400 - DJ Gius Mix, Radio Edit",2018-10-05T15:39:57.093Z
+"Bassnectar, Vindata",False,4vmIVhddgO6knxhoxs7tLh,The Mothership,2018-10-05T16:35:08.947Z
+"Rusko, Bassnectar",False,4iPzWylVMumfmvSaF0zmPg,High - Bassnectar Remix,2018-10-05T16:31:03.918Z
+"Bassnectar, Conrank",False,6dzYRxTPAspTmQDOnhl67O,Easy Does It,2018-10-05T16:27:09.053Z
+Purity Ring,False,2DopRU3QWz4CWymUUrKvO4,bodyache,2018-10-05T16:22:04.956Z
+Purity Ring,False,63PI19vMiCXKzwUwGtmjUX,sea castle,2018-10-05T16:19:11.161Z
+Purity Ring,False,1Bildp7NM39gR3smbMh8W1,begin again,2018-10-05T16:15:43.517Z
+Purity Ring,False,45aZM1UAGfThfsQ6haapFu,Lofticries,2018-10-05T16:12:05.774Z
+Purity Ring,False,51UseDByqDUbRDQeRWqmhm,Amenamy,2018-10-05T16:08:05.838Z
+Purity Ring,False,0AVzhaaOaGgdyXJ2orgfwC,Obedear,2018-10-05T16:04:38.017Z
+Pendulum,False,7wZtIGsr1acUjLQMPIpM9A,Genesis,2018-10-05T16:00:57.186Z
+Zombie Nation,False,7g8cjrj0sXScNE727685JE,"Kernkraft 400 - DJ Gius Mix, Radio Edit",2018-10-05T15:59:46.590Z
+"Pendulum, Steven Wilson",False,5blXK1R7GYL7gY2PVGxC90,The Fountain (feat. Steven Wilson),2018-10-05T15:56:18.297Z
+"Pendulum, Steven Wilson",False,5blXK1R7GYL7gY2PVGxC90,The Fountain (feat. Steven Wilson),2018-10-05T15:53:16.691Z
+Infected Mushroom,False,5aIKYacYaRBCuSYtT2lgck,Feelings,2018-10-05T15:51:18.012Z
+"Bassnectar, Conrank",False,6dzYRxTPAspTmQDOnhl67O,Easy Does It,2018-10-05T17:27:23.950Z
+"Bassnectar, W. Darling",False,3x94KfC5QAsqFKjUGQBH4k,You & Me (feat. W. Darling),2018-10-05T17:11:23.208Z
+The Glitch Mob,False,0hUjW8abCqrRDzZhNDY887,Mind of a Beast,2018-10-05T17:07:19.851Z
+"Naux Faux, Bassnectar",False,7saX4xt82Lh0EKGDUuABC6,Enchanted - Bassnectar Remix,2018-10-05T17:03:06.136Z
+"The Glitch Mob, Sister Crayon",False,150H8Ux0KOnHtU27nQ93Wy,Beauty of the Unhidden Heart (feat. Sister Crayon),2018-10-05T19:54:05.975Z
+"The Glitch Mob, Elohim",False,60OKXIsdVGnXtYxGASWwCx,I Could Be Anything (feat. Elohim),2018-10-05T19:49:36.720Z
+"Bassnectar, W. Darling",False,3x94KfC5QAsqFKjUGQBH4k,You & Me (feat. W. Darling),2018-10-05T19:45:12.810Z
+"Bassnectar, Vindata",False,4vmIVhddgO6knxhoxs7tLh,The Mothership,2018-10-05T19:42:08.453Z
+"Rusko, Bassnectar",False,4iPzWylVMumfmvSaF0zmPg,High - Bassnectar Remix,2018-10-05T17:31:18.744Z
+"Bassnectar, Simon Morel",False,3suOecxXiZv5IW2aoGScBc,Open Up (feat. Simon Morel),2018-10-05T21:53:36.683Z
+David Heartbreak,False,6RBdbgLbOwDZ01OuMzsckx,Rose Colored Bass - Bassnectar Remix,2018-10-05T21:50:00.246Z
+"Bassnectar, Lafa Taylor",False,1ti43ZT6bc4o1eGOSnBHkO,Speakerbox (feat. Lafa Taylor),2018-10-05T21:46:16.878Z
+"Rusko, Bassnectar",False,4iPzWylVMumfmvSaF0zmPg,High - Bassnectar Remix,2018-10-05T21:41:34.139Z
+"Bassnectar, Conrank",False,6dzYRxTPAspTmQDOnhl67O,Easy Does It,2018-10-05T21:37:39.304Z
+"Bassnectar, Jantsen, RD",False,3wWOi4PlqODQJVhN6PY2lQ,Heavyweight Sound (feat. RD),2018-10-05T21:33:20.454Z
+Tove Lo,True,10sqe2FD4eb8MovY8Nyaii,Talking Body,2018-10-05T23:42:11.020Z
+Jenaux,False,2SvNvlHAEdfYELO3sCWcKP,Get It On,2018-10-05T23:38:11.271Z
+"Bassnectar, W. Darling",False,3x94KfC5QAsqFKjUGQBH4k,You & Me (feat. W. Darling),2018-10-05T23:34:13.749Z
+David Heartbreak,False,6RBdbgLbOwDZ01OuMzsckx,Rose Colored Bass - Bassnectar Remix,2018-10-05T23:30:11.088Z
+"Bassnectar, Seth Drake",False,7vFQliBjsAIfpteEzYOCOS,F.U.N.,2018-10-05T23:24:15.723Z
+"Wolf Alice, Charli XCX, Post Precious",False,4sA8sHd9o1NbsdkfHNwNPd,Don't Delete The Kisses - Charli XCX x Post Precious Remix,2018-10-06T06:53:54.157Z
+Charli XCX,False,1KPS1MHPrq9uPklJX8Q4XW,ILY2,2018-10-06T06:49:33.857Z
+Sixpence None The Richer,False,754kgU5rWscRTfvlsuEwFp,Kiss Me,2018-10-06T06:46:15.788Z
+David Maxim Micic,False,4CifWhHr1Cqe6XrAzzOgU6,Voda,2018-10-06T06:42:47.378Z
+Tame Impala,True,6K4t31amVTZDgR3sKmwUJJ,The Less I Know The Better,2018-10-06T06:34:06.631Z
+"The Glitch Mob, Sister Crayon",False,150H8Ux0KOnHtU27nQ93Wy,Beauty of the Unhidden Heart (feat. Sister Crayon),2018-10-06T06:27:09.832Z
+Grimes,False,4ZcGbQ5dOKX6rJk4yvza9R,Flesh without Blood,2018-10-06T06:22:54.082Z
+Grimes,False,4EbkpSxyWfJcpqzO2MzPz7,Pin,2018-10-06T06:21:11.876Z
+Grimes,True,6pfmQTZWmwL2H2BpdzSl8l,Butterfly,2018-10-06T06:19:10.434Z
+"Bassnectar, Seth Drake",False,7vFQliBjsAIfpteEzYOCOS,F.U.N.,2018-10-06T06:11:49.390Z
+"Bassnectar, W. Darling",False,3x94KfC5QAsqFKjUGQBH4k,You & Me (feat. W. Darling),2018-10-06T06:08:00.727Z
+Yuno,False,5ZGxxHixxBV7j9o1uUZFKc,Sunlight,2018-10-06T06:03:50.577Z
+"Bassnectar, Donnis, Rise At Night",False,5YOuMH9gsbNcMBo0c6wIdR,Noise (Rise At Night Remix),2018-10-06T06:00:18.543Z
+Yuno,False,5ZGxxHixxBV7j9o1uUZFKc,Sunlight,2018-10-06T02:11:04.484Z
+Pendulum,False,26s79pNvksAh8tlEembKm3,The Island - Pt. II (Dusk),2018-10-06T02:08:31.762Z
+"Camila Cabello, Young Thug",False,1rfofaqEpACxVEHIZBJe6W,Havana,2018-10-06T02:04:23.551Z
+Pendulum,False,6hzwfFKrTabeUsW5SWti17,Crush,2018-10-06T01:59:19.123Z
+Pendulum,False,5ami95W9OOWQPwrBb5tud5,Watercolour,2018-10-06T01:37:58.353Z
+Alvvays,False,0T5OfSkpotI0fla76KE3Uz,Saved By A Waif,2018-10-06T01:35:29.978Z
+"Bassnectar, W. Darling",False,3x94KfC5QAsqFKjUGQBH4k,You & Me (feat. W. Darling),2018-10-06T01:32:31.102Z
+Part Time,False,1iJSpNeq4XleP4BOcPwMXt,Honey Lips,2018-10-06T01:28:42.655Z
+Pendulum,False,5AhJXm6nrCNDjVphyBUeLH,Under The Waves,2018-10-06T01:26:33.209Z
+David Heartbreak,False,6RBdbgLbOwDZ01OuMzsckx,Rose Colored Bass - Bassnectar Remix,2018-10-06T19:03:15.767Z
+"Bassnectar, W. Darling",False,3x94KfC5QAsqFKjUGQBH4k,You & Me (feat. W. Darling),2018-10-06T18:59:32.003Z
+"Bassnectar, Seth Drake",False,7vFQliBjsAIfpteEzYOCOS,F.U.N.,2018-10-06T18:52:39.927Z
+"Flume, Chet Faker",False,103Ec6ekbiq6hvUfAK9F8o,This Song Is Not About A Girl,2018-10-06T18:47:39.395Z
+Hermitude,False,1LQiF6aZfnNgxerxWJRbxw,HyperParadise - Flume Remix,2018-10-06T18:43:25.269Z
+"Flume, Isabella Manfredi",False,2Zp4W9yRmv1F6PJVg4BibH,TRUST (feat. Isabella Manfredi),2018-10-06T18:38:56.893Z
+Flume,False,0fnwkQrgavFSaGZaCmjqsY,Ezra,2018-10-06T18:35:39.803Z
+"Flume, Moon Holiday",False,0ULEBRTLZhgKisTpgKzAuB,Insane,2018-10-06T18:32:02.514Z
+"Disclosure, Eliza Doolittle, Flume",False,1snNAXmmPXCn0dkF9DaPWw,You & Me - Flume Remix,2018-10-06T18:28:28.616Z
+"Flume, Tove Lo",True,5aOpzm8W8zysk4asB9hxJw,Say It (feat. Tove Lo),2018-10-06T18:23:45.698Z
+"Flume, Moses Sumney",False,797cARXs5UuXT7anWuILTP,Weekend,2018-10-06T18:19:23.181Z
+"Flume, Vince Staples, Ngaiire, Vera Blue, KUČKA",False,2Ou23o8Cqkrn46rLKLDLK6,"My Boo (feat. Vince Staples, Kučka, Ngaiire, Vera Blue) [Triple J Like A Version]",2018-10-06T18:15:04.065Z
+Bassnectar,False,19MbwSLaYgAtyicNUMYYgl,Empathy,2018-10-06T18:11:11.973Z
+David Heartbreak,False,6RBdbgLbOwDZ01OuMzsckx,Rose Colored Bass - Bassnectar Remix,2018-10-06T18:09:42.488Z
+Wintergatan,False,33m0aVQvsfvanuwG6rByrd,Sommarfågel - Bassnectar Remix,2018-10-07T01:57:20.732Z
+"Rusko, Bassnectar",False,4iPzWylVMumfmvSaF0zmPg,High - Bassnectar Remix,2018-10-07T01:55:03.846Z
+Grimes,False,2HatzmU2P4RehpC0GYyfUQ,Life in the Vivid Dream,2018-10-07T01:39:50.362Z
+Grimes,True,6pfmQTZWmwL2H2BpdzSl8l,Butterfly,2018-10-07T01:38:21.705Z
+Grimes,False,17eu2pSgSUpIG1GFWBnODv,Kill V. Maim,2018-10-07T01:34:02.096Z
+Grimes,False,17eu2pSgSUpIG1GFWBnODv,Kill V. Maim,2018-10-07T01:33:50.346Z
+Grimes,False,17eu2pSgSUpIG1GFWBnODv,Kill V. Maim,2018-10-07T01:33:20.211Z
+Grimes,False,17eu2pSgSUpIG1GFWBnODv,Kill V. Maim,2018-10-07T01:32:50.233Z
+Grimes,False,17eu2pSgSUpIG1GFWBnODv,Kill V. Maim,2018-10-07T01:32:50.046Z
+Grimes,False,17eu2pSgSUpIG1GFWBnODv,Kill V. Maim,2018-10-07T01:32:49.907Z
+Grimes,False,4EbkpSxyWfJcpqzO2MzPz7,Pin,2018-10-07T01:29:56.065Z
+"Rusko, Bassnectar",False,4iPzWylVMumfmvSaF0zmPg,High - Bassnectar Remix,2018-10-07T01:26:22.811Z
+"Naux Faux, Bassnectar",False,7saX4xt82Lh0EKGDUuABC6,Enchanted - Bassnectar Remix,2018-10-07T01:21:35.001Z
+"Bassnectar, Vindata",False,4vmIVhddgO6knxhoxs7tLh,The Mothership,2018-10-07T01:18:34.268Z
+"Rusko, Bassnectar",False,4iPzWylVMumfmvSaF0zmPg,High - Bassnectar Remix,2018-10-07T01:14:29.089Z
+"Bassnectar, Conrank",False,6dzYRxTPAspTmQDOnhl67O,Easy Does It,2018-10-07T01:10:34.192Z
+David Heartbreak,False,6RBdbgLbOwDZ01OuMzsckx,Rose Colored Bass - Bassnectar Remix,2018-10-07T01:03:43.202Z
+"The Glitch Mob, Sister Crayon",False,150H8Ux0KOnHtU27nQ93Wy,Beauty of the Unhidden Heart (feat. Sister Crayon),2018-10-07T01:00:00.189Z
+Yumi Zouma,False,38GUrVBl6kXy46GZ24eRso,December,2018-10-07T00:49:40.372Z
+Bassnectar,False,3XEEKal4SZalmHKHf7fCMJ,So Butterfly (2014 Version),2018-10-07T00:49:16.510Z
+Yuno,False,5ZGxxHixxBV7j9o1uUZFKc,Sunlight,2018-10-07T00:45:44.361Z
+DIIV,False,65O6zPSisPj2AvAjaY4Bfg,Healthy Moon,2018-10-07T00:42:10.335Z
+Part Time,False,3nNNsZcRqeUbva8LWkUjto,Cassie (Won’t You Be My Doll),2018-10-07T00:37:57.809Z
+"Bassnectar, W. Darling",False,3x94KfC5QAsqFKjUGQBH4k,You & Me (feat. W. Darling),2018-10-07T00:34:20.416Z
+Panic! At The Disco,False,14uvyd51Ha7FihKHlOtUig,Let's Kill Tonight,2018-10-06T23:29:50.254Z
+Panic! At The Disco,False,5rLi8B8qgk6qThwRnKHW2P,The Ballad Of Mona Lisa,2018-10-06T23:26:16.722Z
+Panic! At The Disco,False,78tro1rpoxmqjbjiRRRzoH,The End Of All Things,2018-10-06T23:22:30.045Z
+Panic! At The Disco,False,1zN3CZlafjfEiMR9uXQGrW,Collar Full,2018-10-06T23:18:58.084Z
+Panic! At The Disco,False,1ac22sFSlj3iaQV2qAsFkK,Do You Know What I'm Seeing?,2018-10-06T23:15:39.647Z
+Panic! At The Disco,False,2d1D1E8M48hHE99u6BO8RN,That Green Gentleman (Things Have Changed),2018-10-06T23:11:25.180Z
+Panic! At The Disco,False,2KA3lvDwQQiyvuJJvzifGL,Nearly Witches [Ever Since We Met...],2018-10-06T23:08:10.179Z
+Panic! At The Disco,False,5rLi8B8qgk6qThwRnKHW2P,The Ballad Of Mona Lisa,2018-10-06T23:03:52.673Z
+Travis Scott,True,6gBFPUFcJLzWGx4lenP6h2,goosebumps,2018-10-07T02:21:29.998Z
+Travis Scott,True,6gBFPUFcJLzWGx4lenP6h2,goosebumps,2018-10-07T02:21:19.546Z
+Travis Scott,True,6gBFPUFcJLzWGx4lenP6h2,goosebumps,2018-10-07T02:20:49.364Z
+Travis Scott,True,6gBFPUFcJLzWGx4lenP6h2,goosebumps,2018-10-07T02:20:19.291Z
+Travis Scott,True,6gBFPUFcJLzWGx4lenP6h2,goosebumps,2018-10-07T02:19:49.264Z
+Travis Scott,True,6gBFPUFcJLzWGx4lenP6h2,goosebumps,2018-10-07T02:19:49.080Z
+Travis Scott,True,6gBFPUFcJLzWGx4lenP6h2,goosebumps,2018-10-07T02:19:48.867Z
+Charli XCX,False,1KPS1MHPrq9uPklJX8Q4XW,ILY2,2018-10-07T02:17:25.138Z
+Part Time,False,1iJSpNeq4XleP4BOcPwMXt,Honey Lips,2018-10-07T02:14:07.546Z
+David Maxim Micic,False,4CifWhHr1Cqe6XrAzzOgU6,Voda,2018-10-07T05:32:15.532Z
+"David Maxim Micic, Miyoki",False,7MohZ0vAxyrzUjqfbQhDhw,Stardust,2018-10-07T05:29:01.097Z
+The Dear Hunter,False,3ho676UrO1qCIY0gKHs8kN,Red Hands,2018-10-07T05:18:52.007Z
+The Dear Hunter,False,7yg3UIbYx9kiOWHoGtFMqG,The Moon / Awake,2018-10-07T05:17:00.644Z
+The Dear Hunter,False,3ig2dV1bPM5ejNjd0iOp9U,Waves,2018-10-07T05:10:51.031Z
+Yuno,False,5ZGxxHixxBV7j9o1uUZFKc,Sunlight,2018-10-07T05:06:38.632Z
+Ariana Grande,True,14kYOiFVPb7E7NfFbqhdln,goodnight n go,2018-10-07T05:03:04.013Z
+Part Time,False,1iJSpNeq4XleP4BOcPwMXt,Honey Lips,2018-10-07T05:01:55.033Z
+"Sia, Diplo, Labrinth, LSD",False,73F87Sqh6jQWucOOvz1WFx,"Genius - with Sia, Diplo & Labrinth",2018-10-07T04:58:41.438Z
+Chaos Chaos,False,3lOok0REf4j3790abX26PR,Do You Feel It?,2018-10-07T03:27:58.979Z
+"Bassnectar, W. Darling",False,3x94KfC5QAsqFKjUGQBH4k,You & Me (feat. W. Darling),2018-10-07T03:23:46.996Z
+Camila Cabello,False,4eWQlBRaTjPPUlzacqEeoQ,Never Be the Same,2018-10-07T03:19:42.789Z
+Alvvays,False,5HLes17mwCwKt81mi0Tk35,"Archie, Marry Me",2018-10-07T03:15:54.921Z
+Lily Allen,False,2fcFWA4AeNcbCTut4o4fn4,Who'd Have Known,2018-10-07T03:12:37.229Z
+A R I Z O N A,False,6A8dnC0xkiuWN4BshmTB2I,Oceans Away,2018-10-07T03:08:26.681Z
+Infected Mushroom,False,2S57lHVdoUVUfY13e1AUZi,Nutmeg,2018-10-07T03:06:37.038Z
+Alan Walker,False,7gHs73wELdeycvS48JfIos,Faded,2018-10-07T02:36:27.843Z
+Alan Walker,False,7gHs73wELdeycvS48JfIos,Faded,2018-10-07T02:34:22.224Z
+Zombie Nation,False,7g8cjrj0sXScNE727685JE,"Kernkraft 400 - DJ Gius Mix, Radio Edit",2018-10-07T02:33:25.178Z
+Zombie Nation,False,7g8cjrj0sXScNE727685JE,"Kernkraft 400 - DJ Gius Mix, Radio Edit",2018-10-07T02:33:24.782Z
+Pendulum,False,3cNsLpqu5TGoGKwM6cyZXB,The Vulture,2018-10-07T02:29:13.702Z
+Panic! At The Disco,False,00h6syYCxPKVsInPHXhdZ1,Sarah Smiles,2018-10-07T02:25:03.270Z
+Grimes,False,2HatzmU2P4RehpC0GYyfUQ,Life in the Vivid Dream,2018-10-07T17:11:04.293Z
+Grimes,True,6pfmQTZWmwL2H2BpdzSl8l,Butterfly,2018-10-07T17:09:35.906Z
+"Grimes, Janelle Monáe",False,3JI2mIJto0JuYbrq87aFqu,Venus Fly,2018-10-07T17:05:22.944Z
+Grimes,False,4EbkpSxyWfJcpqzO2MzPz7,Pin,2018-10-07T17:01:35.845Z
+Grimes,False,17eu2pSgSUpIG1GFWBnODv,Kill V. Maim,2018-10-07T16:58:03.721Z
+Grimes,False,2xMBf5lFjQvrkWL2toULNg,Artangels,2018-10-07T16:53:58.308Z
+"Bassnectar, Jantsen, RD",False,3wWOi4PlqODQJVhN6PY2lQ,Heavyweight Sound (feat. RD),2018-10-07T16:48:24.690Z
+"Bassnectar, Conrank",False,6dzYRxTPAspTmQDOnhl67O,Easy Does It,2018-10-07T16:43:46.390Z
+"Rusko, Bassnectar",False,4iPzWylVMumfmvSaF0zmPg,High - Bassnectar Remix,2018-10-07T16:39:27.516Z
+"Rusko, Bassnectar",False,4iPzWylVMumfmvSaF0zmPg,High - Bassnectar Remix,2018-10-07T05:36:08.628Z
+"The Glitch Mob, Sister Crayon",False,150H8Ux0KOnHtU27nQ93Wy,Beauty of the Unhidden Heart (feat. Sister Crayon),2018-10-08T15:20:18.993Z
+Grimes,True,6pfmQTZWmwL2H2BpdzSl8l,Butterfly,2018-10-08T15:15:48.077Z
+"Rusko, Bassnectar",False,4iPzWylVMumfmvSaF0zmPg,High - Bassnectar Remix,2018-10-08T15:11:35.194Z
+"Bassnectar, Seth Drake",False,7vFQliBjsAIfpteEzYOCOS,F.U.N.,2018-10-08T15:07:40.938Z
+"Bassnectar, W. Darling",False,3x94KfC5QAsqFKjUGQBH4k,You & Me (feat. W. Darling),2018-10-08T15:03:10.599Z
+"Bassnectar, W. Darling",False,3x94KfC5QAsqFKjUGQBH4k,You & Me (feat. W. Darling),2018-10-08T04:36:27.417Z
+Part Time,False,1iJSpNeq4XleP4BOcPwMXt,Honey Lips,2018-10-08T03:51:08.653Z
+A R I Z O N A,False,6A8dnC0xkiuWN4BshmTB2I,Oceans Away,2018-10-08T03:45:42.066Z
+"A R I Z O N A, Kiiara",False,6JsfvqClYnc2R5yZ67C2ch,Cross My Mind Pt. 2 (feat. Kiiara),2018-10-08T03:42:28.942Z
+"Rusko, Bassnectar",False,4iPzWylVMumfmvSaF0zmPg,High - Bassnectar Remix,2018-10-08T03:37:48.076Z
+"Camila Cabello, Young Thug",False,1rfofaqEpACxVEHIZBJe6W,Havana,2018-10-07T21:29:58.772Z
+"Cardi B, Bad Bunny, J Balvin",True,58q2HKrzhC3ozto2nDdN4z,I Like It,2018-10-07T20:58:36.087Z
+David Heartbreak,False,6RBdbgLbOwDZ01OuMzsckx,Rose Colored Bass - Bassnectar Remix,2018-10-07T20:54:22.247Z
+"Bassnectar, W. Darling",False,3x94KfC5QAsqFKjUGQBH4k,You & Me (feat. W. Darling),2018-10-07T20:50:38.399Z
+"Bassnectar, Jantsen, RD",False,3wWOi4PlqODQJVhN6PY2lQ,Heavyweight Sound (feat. RD),2018-10-07T20:46:33.500Z
+"Rusko, Bassnectar",False,4iPzWylVMumfmvSaF0zmPg,High - Bassnectar Remix,2018-10-07T20:41:54.943Z
+"Rusko, Bassnectar",False,4iPzWylVMumfmvSaF0zmPg,High - Bassnectar Remix,2018-10-07T20:31:15.626Z
+Marvin Gaye,False,0jHkgTtTaqg5LNCiYDQPUB,Let's Get It On,2018-10-08T23:23:42.027Z
+"Rusko, Bassnectar",False,4iPzWylVMumfmvSaF0zmPg,High - Bassnectar Remix,2018-10-08T23:18:50.499Z
+Tilian,False,0FFeE7uGlBiAinm4J0mIQW,Blame It On Rock And Roll,2018-10-08T22:53:24.524Z
+Tilian,True,27aQkV5FcH8AOuAnTq6frJ,Favor the Gods,2018-10-08T22:49:38.533Z
+Tilian,False,0z6iUdVCO3Kom69jNG87HJ,Ghost (Lowend Remix),2018-10-08T22:45:50.942Z
+Tilian,False,2Qo16mkkHuu8qayp2JN32R,Cocky,2018-10-08T22:42:28.894Z
+Bobby McFerrin,False,4hObp5bmIJ3PP3cKA9K9GY,Don't Worry Be Happy,2018-10-08T22:28:42.739Z
+Rod Stewart,False,1r3kj1yMff7ilIsR7hpvUo,Maggie May - Remastered Version,2018-10-08T22:08:16.075Z
+Christina Aguilera,False,11mwFrKvLXCbcVGNxffGyP,Genie in a Bottle,2018-10-08T22:02:29.912Z
+No Doubt,False,6urCAbunOQI4bLhmGpX7iS,Don't Speak,2018-10-08T21:58:51.896Z
+Billy Joel,False,3FCto7hnn1shUyZL42YgfO,Piano Man,2018-10-08T21:49:48.830Z
+Bryan Adams,False,0GONea6G2XdnHWjNZd6zt3,Summer Of '69,2018-10-08T21:44:11.866Z
+Nena,False,6HA97v4wEGQ5TUClRM0XLc,99 Luftballons,2018-10-08T21:36:27.881Z
+Aqua,False,2RSOzvKUnfDDrb2nQPfpQU,Barbie Girl,2018-10-08T21:32:33.395Z
+"Rusko, Bassnectar",False,4iPzWylVMumfmvSaF0zmPg,High - Bassnectar Remix,2018-10-08T21:29:15.122Z
+The Bangles,False,0p7AnsY54J18pF47BOvXcf,Eternal Flame,2018-10-08T21:25:06.073Z
+Marvin Gaye,False,4sTjpbVRhhzN5YHhYMYbe3,Sexual Healing,2018-10-08T21:21:11.209Z
+"Gloria Estefan, Miami Sound Machine",False,53pZ8y3yMYUNpclGwIufu0,Conga,2018-10-08T21:17:10.576Z
+Marvin Gaye,False,0jHkgTtTaqg5LNCiYDQPUB,Let's Get It On,2018-10-08T21:12:54.389Z
+Aqua,False,2RSOzvKUnfDDrb2nQPfpQU,Barbie Girl,2018-10-08T21:08:05.624Z
+"Gloria Estefan, Miami Sound Machine",False,53pZ8y3yMYUNpclGwIufu0,Conga,2018-10-08T20:53:10.486Z
+A Flock Of Seagulls,False,173PnvZh4grHTf31DPXDbJ,I Ran,2018-10-08T20:52:31.330Z
+Marvin Gaye,False,0jHkgTtTaqg5LNCiYDQPUB,Let's Get It On,2018-10-08T19:29:29.952Z
+"Marvin Gaye, Tammi Terrell",False,5Y77Du7JquoXQEK1nb9dqT,Ain't Nothing Like The Real Thing - Alternate Take,2018-10-08T19:24:39.904Z
+Marvin Gaye,False,0jHkgTtTaqg5LNCiYDQPUB,Let's Get It On,2018-10-08T18:32:31.708Z
+The Psychedelic Furs,False,1mqytV5qZcmzG6MgvJCpkQ,Love My Way,2018-10-08T18:27:15.616Z
+The Bangles,False,0p7AnsY54J18pF47BOvXcf,Eternal Flame,2018-10-08T18:23:43.580Z
+Marvin Gaye,False,4sTjpbVRhhzN5YHhYMYbe3,Sexual Healing,2018-10-08T18:19:48.696Z
+A Flock Of Seagulls,False,173PnvZh4grHTf31DPXDbJ,I Ran,2018-10-08T17:38:52.753Z
+The Human League,False,3L7RtEcu1Hw3OXrpnthngx,Don't You Want Me,2018-10-08T17:35:12.326Z
+Tilian,False,5OmsRoNP2H5TIK7PMMxM7o,Chemicals,2018-10-08T17:27:06.947Z
+"Bassnectar, Jantsen, RD",False,3wWOi4PlqODQJVhN6PY2lQ,Heavyweight Sound (feat. RD),2018-10-08T17:27:01.224Z
+Tilian,True,7KToocXOKD1QvU5QBMKvRC,Ghost Town,2018-10-08T17:22:28.864Z
+Tilian,False,4gITsyu5GFPDd8Zy5JQkat,Alive,2018-10-08T17:18:25.280Z
+Tilian,False,2Qo16mkkHuu8qayp2JN32R,Cocky,2018-10-08T17:14:06.497Z
+Meine Meinung,False,7JSpWYRvGqbb18skrPXBlp,When you are held by the tenderness,2018-10-08T16:59:15.830Z
+"Bassnectar, Dorfex Bos",False,71VqCMlnkqH1TYnRUk6IHG,Other Worlds,2018-10-08T16:56:08.262Z
+David Heartbreak,False,6RBdbgLbOwDZ01OuMzsckx,Rose Colored Bass - Bassnectar Remix,2018-10-08T16:39:52.076Z
+Tilian,False,4krsnoX4kBusHiiYG7cnPR,Future Friends,2018-10-08T16:36:08.723Z
+Tilian,False,2Qo16mkkHuu8qayp2JN32R,Cocky,2018-10-08T16:32:08.387Z
+Tilian,False,4YQ3wmxU4UJMRBWvGPMJIG,True,2018-10-08T16:28:34.954Z
+"Tilian, Jonny Craig",False,6cZ7EoSPi9zZF7y3OQ32ZR,Back to Life,2018-10-08T16:15:34.207Z
+Tilian,False,2Qo16mkkHuu8qayp2JN32R,Cocky,2018-10-08T16:12:02.245Z
+Tilian,True,7nN6aEGnp7IhPw3R5zx8bP,Made Of Plastic,2018-10-08T16:08:28.275Z
+Tilian,False,6QeHLkpfNz50bPK5N6T73R,Flutter,2018-10-08T16:04:32.304Z
+Tilian,False,04ATgzpAWX2RGnTF53NUS2,Take You There,2018-10-08T16:00:57.458Z
+Tilian,False,2Qo16mkkHuu8qayp2JN32R,Cocky,2018-10-08T15:56:42.180Z
+"Bassnectar, Conrank",False,6dzYRxTPAspTmQDOnhl67O,Easy Does It,2018-10-08T15:53:09.937Z
+Grimes,False,4EbkpSxyWfJcpqzO2MzPz7,Pin,2018-10-09T14:28:50.525Z
+Grimes,True,6pfmQTZWmwL2H2BpdzSl8l,Butterfly,2018-10-09T14:28:17.533Z
+"Earth, Wind & Fire, The Emotions",False,6ztstiyZL6FXzh4aG46ZPD,Boogie Wonderland,2018-10-09T14:24:04.631Z
+Tilian,False,2Qo16mkkHuu8qayp2JN32R,Cocky,2018-10-09T14:14:47.089Z
+"Rusko, Bassnectar",False,4iPzWylVMumfmvSaF0zmPg,High - Bassnectar Remix,2018-10-09T03:47:13.014Z
+"Bassnectar, Conrank",False,6dzYRxTPAspTmQDOnhl67O,Easy Does It,2018-10-09T03:43:55.235Z
+Marvin Gaye,False,0jHkgTtTaqg5LNCiYDQPUB,Let's Get It On,2018-10-09T03:39:35.971Z
+Tilian,False,2Qo16mkkHuu8qayp2JN32R,Cocky,2018-10-09T03:34:44.724Z
+"Earth, Wind & Fire",False,3koCCeSaVUyrRo3N2gHrd8,Let's Groove,2018-10-09T03:31:10.174Z
+"Earth, Wind & Fire",False,3koCCeSaVUyrRo3N2gHrd8,Let's Groove,2018-10-09T03:21:32.993Z
+Aqua,False,2RSOzvKUnfDDrb2nQPfpQU,Barbie Girl,2018-10-10T14:49:57.641Z
+Tilian,False,2Qo16mkkHuu8qayp2JN32R,Cocky,2018-10-10T14:46:30.207Z
+Sia,False,3AlpkljBS1AU7HFVPms8K6,Santa's Coming For Us,2018-10-10T14:37:50.675Z
+"David Maxim Micic, Miyoki",False,7MohZ0vAxyrzUjqfbQhDhw,Stardust,2018-10-10T06:08:28.618Z
+"Bassnectar, Jantsen, RD",False,3wWOi4PlqODQJVhN6PY2lQ,Heavyweight Sound (feat. RD),2018-10-10T06:04:05.497Z
+"Bassnectar, Conrank",False,6dzYRxTPAspTmQDOnhl67O,Easy Does It,2018-10-10T05:59:25.088Z
+Alvvays,False,5HLes17mwCwKt81mi0Tk35,"Archie, Marry Me",2018-10-10T05:53:03.861Z
+A R I Z O N A,False,6A8dnC0xkiuWN4BshmTB2I,Oceans Away,2018-10-10T05:49:47.002Z
+A R I Z O N A,False,6A8dnC0xkiuWN4BshmTB2I,Oceans Away,2018-10-10T05:40:48.161Z
+Charli XCX,False,1KPS1MHPrq9uPklJX8Q4XW,ILY2,2018-10-09T22:58:50.790Z
+Infected Mushroom,False,7FH38uzPfigJoT92TCe3sx,Wanted To,2018-10-09T22:55:33.571Z
+Part Time,False,1iJSpNeq4XleP4BOcPwMXt,Honey Lips,2018-10-09T22:52:08.972Z
+RADWIMPS,False,5mEqD00bdFcsiVd0MfvEeF,Dream lantern,2018-10-09T22:12:26.066Z
+"Charli XCX, Lil Yachty",False,0y8Wf6ltWpGCpgqVa21QNX,After The Afterparty (feat. Lil Yachty),2018-10-09T22:10:13.950Z
+"Bassnectar, Seth Drake",False,7vFQliBjsAIfpteEzYOCOS,F.U.N.,2018-10-09T22:06:33.850Z
+Tame Impala,True,6K4t31amVTZDgR3sKmwUJJ,The Less I Know The Better,2018-10-09T22:01:38.170Z
+Yumi Zouma,False,38GUrVBl6kXy46GZ24eRso,December,2018-10-09T21:58:01.344Z
+Yuno,False,5ZGxxHixxBV7j9o1uUZFKc,Sunlight,2018-10-09T21:27:32.283Z
+DIIV,False,65O6zPSisPj2AvAjaY4Bfg,Healthy Moon,2018-10-09T21:23:58.712Z
+Part Time,False,3nNNsZcRqeUbva8LWkUjto,Cassie (Won’t You Be My Doll),2018-10-09T21:19:46.635Z
+"Bassnectar, W. Darling",False,3x94KfC5QAsqFKjUGQBH4k,You & Me (feat. W. Darling),2018-10-09T21:02:48.628Z
+"Bassnectar, Seth Drake",False,7vFQliBjsAIfpteEzYOCOS,F.U.N.,2018-10-09T20:58:44.818Z
+The Dear Hunter,False,15qxRClwyQyaKziOCGz4ZR,Gloria,2018-10-09T19:56:43.764Z
+The Dear Hunter,False,6PteR6HMWWK8gLrp9jrvJk,Light,2018-10-09T19:51:26.173Z
+The Dear Hunter,False,7yg3UIbYx9kiOWHoGtFMqG,The Moon / Awake,2018-10-09T19:47:24.820Z
+The Dear Hunter,False,1ZoCfOodvufqooNDXliKxw,King of Swords (Reversed),2018-10-09T18:28:10.460Z
+The Dear Hunter,False,5IqsCh0erHYudxRZIM5RDE,Black Sandy Beaches,2018-10-09T18:22:13.085Z
+The Dear Hunter,False,3ho676UrO1qCIY0gKHs8kN,Red Hands,2018-10-09T18:17:48.173Z
+"Rusko, Bassnectar",False,4iPzWylVMumfmvSaF0zmPg,High - Bassnectar Remix,2018-10-09T18:04:38.317Z
+Tilian,False,5Jk7WHhfHGX2nYM9UBW4KX,Patient,2018-10-09T18:00:44.324Z
+Tilian,True,27aQkV5FcH8AOuAnTq6frJ,Favor the Gods,2018-10-09T17:58:35.711Z
+Tilian,False,1oJeQEWCl4Ow8g7pJKQXru,All I Ever Do (Dabow Remix),2018-10-09T17:54:49.465Z
+Tilian,False,2Qo16mkkHuu8qayp2JN32R,Cocky,2018-10-09T17:54:06.348Z
+Panic! At The Disco,False,00h6syYCxPKVsInPHXhdZ1,Sarah Smiles,2018-10-09T17:45:54.150Z
+Grimes,False,4ZcGbQ5dOKX6rJk4yvza9R,Flesh without Blood,2018-10-09T17:42:20.166Z
+"Bassnectar, W. Darling",False,3x94KfC5QAsqFKjUGQBH4k,You & Me (feat. W. Darling),2018-10-09T17:37:55.079Z
+"Bassnectar, Conrank",False,6dzYRxTPAspTmQDOnhl67O,Easy Does It,2018-10-09T17:33:51.130Z
+"Bassnectar, Jantsen, RD",False,3wWOi4PlqODQJVhN6PY2lQ,Heavyweight Sound (feat. RD),2018-10-09T17:30:47.898Z
+Yuno,False,5ZGxxHixxBV7j9o1uUZFKc,Sunlight,2018-10-11T15:56:40.505Z
+Panic! At The Disco,False,00h6syYCxPKVsInPHXhdZ1,Sarah Smiles,2018-10-11T15:53:06.944Z
+Infected Mushroom,False,5sdDzzl866nMO5HQaNWrUH,I Wish,2018-10-11T15:49:33.129Z
+Infected Mushroom,False,2NRFvNVeJ7GVQ46WW8lUbx,Saeed,2018-10-11T15:46:31.722Z
+Part Time,False,3nNNsZcRqeUbva8LWkUjto,Cassie (Won’t You Be My Doll),2018-10-11T15:39:27.471Z
+"Lights Follow, Matthew Heath, Grady Griggs",False,5WBxAaS9nNnWTH469p0Ht0,Slow Down (feat. Matthew Heath & Grady Griggs),2018-10-11T15:35:52.218Z
+"Wolf Alice, Charli XCX, Post Precious",False,4sA8sHd9o1NbsdkfHNwNPd,Don't Delete The Kisses - Charli XCX x Post Precious Remix,2018-10-11T15:32:37.934Z
+"Sia, Diplo, Labrinth, LSD",False,73F87Sqh6jQWucOOvz1WFx,"Genius - with Sia, Diplo & Labrinth",2018-10-11T15:32:37.419Z
+"A R I Z O N A, Kiiara",False,6JsfvqClYnc2R5yZ67C2ch,Cross My Mind Pt. 2 (feat. Kiiara),2018-10-11T15:29:03.490Z
+"Bassnectar, W. Darling",False,3x94KfC5QAsqFKjUGQBH4k,You & Me (feat. W. Darling),2018-10-11T15:25:25.066Z
+Marvin Gaye,False,3VZmChrnVW8JK6ano4gSED,Sexual Healing,2018-10-11T15:21:19.801Z
+Aqua,False,2RSOzvKUnfDDrb2nQPfpQU,Barbie Girl,2018-10-11T15:11:20.907Z
+The Dear Hunter,False,5nqEGZMdz5P3Z8t26WeMMN,The Bitter Suite III: Embrace,2018-10-11T04:51:31.461Z
+Grimes,True,6pfmQTZWmwL2H2BpdzSl8l,Butterfly,2018-10-11T04:22:05.355Z
+"Bassnectar, Conrank",False,6dzYRxTPAspTmQDOnhl67O,Easy Does It,2018-10-11T04:17:52.408Z
+"Rusko, Bassnectar",False,4iPzWylVMumfmvSaF0zmPg,High - Bassnectar Remix,2018-10-11T04:13:18.070Z
+Yuno,False,5ZGxxHixxBV7j9o1uUZFKc,Sunlight,2018-10-11T04:09:23.167Z
+Tilian,True,27aQkV5FcH8AOuAnTq6frJ,Favor the Gods,2018-10-10T23:34:48.959Z
+Marvin Gaye,False,3VZmChrnVW8JK6ano4gSED,Sexual Healing,2018-10-10T22:42:02.718Z
+Marvin Gaye,False,0jHkgTtTaqg5LNCiYDQPUB,Let's Get It On,2018-10-10T22:38:03.060Z
+"Wolf Alice, Charli XCX, Post Precious",False,4sA8sHd9o1NbsdkfHNwNPd,Don't Delete The Kisses - Charli XCX x Post Precious Remix,2018-10-10T22:32:53.603Z
+Maroon 5,True,0JssjDh3UWEgjUslVZgHJG,Sugar,2018-10-10T21:49:15.668Z
+"Maroon 5, Cardi B",True,6FRLCMO5TUHTexlWo8ym1W,Girls Like You (feat. Cardi B),2018-10-10T21:45:26.086Z
+"Cardi B, Bad Bunny, J Balvin",True,58q2HKrzhC3ozto2nDdN4z,I Like It,2018-10-10T21:41:30.038Z
+All That Jazz,False,361a7ybPctuTnUYjQPGifZ,ねこバス,2018-10-10T21:37:09.090Z
+Part Time,False,1iJSpNeq4XleP4BOcPwMXt,Honey Lips,2018-10-10T21:33:11.664Z
+Pendulum,False,5E1UIRcuHd7Rr7PYbQSEOu,Set Me On Fire,2018-10-10T21:12:51.324Z
+Infected Mushroom,False,7IBDh9A9cn4hjrpX4Zzb08,Milosh,2018-10-10T21:07:49.019Z
+"Janelle Monáe, Zoë Kravitz",True,1Z2MfAx1nJ09NzGjodnvRW,Screwed (feat. Zoë Kravitz),2018-10-10T20:53:54.102Z
+Taylor Swift,False,0dBW6ZsW8skfvoRfgeerBF,Mine,2018-10-10T20:48:14.130Z
+Bee Gees,False,2E0kGMK29BUaVQN4zC3Vpj,How Deep Is Your Love,2018-10-10T20:42:01.944Z
+Billy Ocean,False,7LZj2ty0qFTI8qRPFmnejr,Caribbean Queen (No More Love On the Run),2018-10-10T20:38:00.039Z
+Infected Mushroom,False,1Nukcy7xk7AbS7MtkaiOe3,Becoming Insane,2018-10-10T20:33:55.397Z
+Tiffany,False,0n1NI4TnEw0SeXSS4DNhhb,I Think We're Alone Now,2018-10-10T20:26:02.695Z
+"Camila Cabello, Young Thug",False,1rfofaqEpACxVEHIZBJe6W,Havana,2018-10-10T20:22:15.591Z
+Travis Scott,True,6gBFPUFcJLzWGx4lenP6h2,goosebumps,2018-10-10T20:18:37.801Z
+Marvin Gaye,False,3VZmChrnVW8JK6ano4gSED,Sexual Healing,2018-10-10T20:13:45.926Z
+Marvin Gaye,False,0jHkgTtTaqg5LNCiYDQPUB,Let's Get It On,2018-10-10T20:09:47.814Z
+Ariana Grande,True,14kYOiFVPb7E7NfFbqhdln,goodnight n go,2018-10-10T20:01:17.466Z
+Yuno,False,5ZGxxHixxBV7j9o1uUZFKc,Sunlight,2018-10-10T19:58:07.317Z
+Tilian,False,38HidNFrnY12eO9UlW8nI3,Someday,2018-10-10T19:54:31.894Z
+Tilian,False,7heKS9kxZtDviApcTTnO7l,Up in the Air,2018-10-10T18:21:05.004Z
+"Tilian, Tyler Carter",False,7xB2ZfGvlLbaAjg8WV8jvG,Now or Never (feat. Tyler Carter),2018-10-10T18:17:36.361Z
+Tilian,False,5DltBs0fBfMWZy2QQsIWR9,Ghost,2018-10-10T18:13:56.153Z
+Tilian,False,1x0VNA26OnIouqE3jjiTIg,Waste My Time,2018-10-10T17:12:08.338Z
+"The Glitch Mob, Elohim",False,60OKXIsdVGnXtYxGASWwCx,I Could Be Anything (feat. Elohim),2018-10-10T17:08:13.900Z
+Tilian,True,27aQkV5FcH8AOuAnTq6frJ,Favor the Gods,2018-10-10T17:04:03.551Z
+Beach House,False,5UFt0wpIRFSYTIPjZny4u9,Myth,2018-10-10T17:00:16.655Z
+Yuno,False,5ZGxxHixxBV7j9o1uUZFKc,Sunlight,2018-10-10T16:52:01.644Z
+Yumi Zouma,False,38GUrVBl6kXy46GZ24eRso,December,2018-10-10T16:48:28.144Z
+Miranda!,False,5v08rOeaJwVIpllUkIRCMI,Traición,2018-10-12T15:16:18.113Z
+"Bassnectar, Lafa Taylor",False,1ti43ZT6bc4o1eGOSnBHkO,Speakerbox (feat. Lafa Taylor),2018-10-12T15:13:12.892Z
+Part Time,False,3nNNsZcRqeUbva8LWkUjto,Cassie (Won’t You Be My Doll),2018-10-12T15:05:51.037Z
+Marvin Gaye,False,3VZmChrnVW8JK6ano4gSED,Sexual Healing,2018-10-12T15:02:14.102Z
+Lily Allen,False,2fcFWA4AeNcbCTut4o4fn4,Who'd Have Known,2018-10-12T05:10:20.797Z
+Infected Mushroom,False,3VWsBrDVQDygBhWGX0UwbE,Where Do I Belong,2018-10-12T05:06:06.135Z
+"Bassnectar, Seth Drake",False,7vFQliBjsAIfpteEzYOCOS,F.U.N.,2018-10-12T05:02:39.204Z
+Part Time,False,1iJSpNeq4XleP4BOcPwMXt,Honey Lips,2018-10-12T04:57:56.760Z
+Stark Sands,False,1aceQjRY92RCxd46WxylcX,Soul of a Man,2018-10-12T04:54:57.789Z
+"Polyphia, Mario Camarena, Erick Hansel",False,7pnBZ0vitnvhKzgCEafZ8A,Yas (feat. Mario Camarena and Erick Hansel),2018-10-12T04:51:35.354Z
+"Polyphia, Mario Camarena, Erick Hansel",False,7pnBZ0vitnvhKzgCEafZ8A,Yas (feat. Mario Camarena and Erick Hansel),2018-10-12T03:59:44.131Z
+"Polyphia, Mario Camarena, Erick Hansel",False,7pnBZ0vitnvhKzgCEafZ8A,Yas (feat. Mario Camarena and Erick Hansel),2018-10-12T03:59:43.917Z
+Polyphia,False,3v3VFa7Dt32gNR27jfw7DG,40oz,2018-10-12T03:50:53.976Z
+Polyphia,True,2v7iJcMoQcN40fK9XEb42q,Goose,2018-10-12T03:45:25.848Z
+Polyphia,False,3RoycW4yhd2HCsWmLR7xIi,LIT,2018-10-12T03:42:44.597Z
+Polyphia,False,5l3WNlq4rag0fFP0TI9qeJ,The Worst,2018-10-12T03:38:32.123Z
+Polyphia,False,2aVAlLn2uez3xpcXxdiVek,G.O.A.T.,2018-10-12T03:34:26.275Z
+Polyphia,False,6zws4OjURj5NQox7MvKunh,Crosty,2018-10-12T03:28:50.513Z
+Polyphia,False,5QZ7TEd3h6OysmdMHm0Mfj,Icronic,2018-10-12T03:25:44.717Z
+"Polyphia, Nick Johnston",False,6HOstByHAFfuW1wVAaTTip,Champagne (feat. Nick Johnston),2018-10-12T03:21:53.496Z
+Polyphia,False,0NQX8uIipe2SbgjgKyfq59,Loud,2018-10-12T03:17:28.454Z
+"Polyphia, Mario Camarena, Erick Hansel",False,7pnBZ0vitnvhKzgCEafZ8A,Yas (feat. Mario Camarena and Erick Hansel),2018-10-12T03:13:30.191Z
+Polyphia,False,3v3VFa7Dt32gNR27jfw7DG,40oz,2018-10-12T03:10:07.553Z
+Polyphia,True,2v7iJcMoQcN40fK9XEb42q,Goose,2018-10-12T03:06:13.730Z
+Polyphia,False,3RoycW4yhd2HCsWmLR7xIi,LIT,2018-10-12T03:01:58.240Z
+Polyphia,False,3YMT7YnliDwUzG3FL4y4kq,Light,2018-10-12T02:52:45.243Z
+Polyphia,False,5QZ7TEd3h6OysmdMHm0Mfj,Icronic,2018-10-12T02:49:42.445Z
+Marvin Gaye,False,3VZmChrnVW8JK6ano4gSED,Sexual Healing,2018-10-12T02:31:00.258Z
+The Glitch Mob,False,0hUjW8abCqrRDzZhNDY887,Mind of a Beast,2018-10-12T02:10:08.666Z
+Grimes,False,2HatzmU2P4RehpC0GYyfUQ,Life in the Vivid Dream,2018-10-12T02:05:51.188Z
+Grimes,False,4EbkpSxyWfJcpqzO2MzPz7,Pin,2018-10-12T02:04:22.491Z
+Grimes,True,6pfmQTZWmwL2H2BpdzSl8l,Butterfly,2018-10-12T02:00:49.463Z
+"Bassnectar, Jantsen, RD",False,3wWOi4PlqODQJVhN6PY2lQ,Heavyweight Sound (feat. RD),2018-10-12T01:56:00.432Z
+Tilian,False,2Qo16mkkHuu8qayp2JN32R,Cocky,2018-10-12T01:51:21.709Z
+"Polyphia, Nick Johnston",False,6HOstByHAFfuW1wVAaTTip,Champagne (feat. Nick Johnston),2018-10-11T22:41:58.595Z
+Polyphia,False,0NQX8uIipe2SbgjgKyfq59,Loud,2018-10-11T22:36:59.719Z
+"Polyphia, Mario Camarena, Erick Hansel",False,7pnBZ0vitnvhKzgCEafZ8A,Yas (feat. Mario Camarena and Erick Hansel),2018-10-11T22:33:01.424Z
+Polyphia,False,3v3VFa7Dt32gNR27jfw7DG,40oz,2018-10-11T22:29:38.421Z
+Polyphia,True,2v7iJcMoQcN40fK9XEb42q,Goose,2018-10-11T22:25:44.556Z
+"Earth, Wind & Fire",False,3koCCeSaVUyrRo3N2gHrd8,Let's Groove,2018-10-11T22:23:05.304Z
+Polyphia,False,3RoycW4yhd2HCsWmLR7xIi,LIT,2018-10-11T22:21:28.672Z
+Polyphia,False,5l3WNlq4rag0fFP0TI9qeJ,The Worst,2018-10-11T22:17:14.763Z
+Polyphia,False,2aVAlLn2uez3xpcXxdiVek,G.O.A.T.,2018-10-11T22:12:37.839Z
+Marvin Gaye,False,0jHkgTtTaqg5LNCiYDQPUB,Let's Get It On,2018-10-11T21:37:51.361Z
+Lily Allen,False,2fcFWA4AeNcbCTut4o4fn4,Who'd Have Known,2018-10-11T21:32:27.763Z
+Panic! At The Disco,False,00h6syYCxPKVsInPHXhdZ1,Sarah Smiles,2018-10-11T21:28:37.230Z
+Infected Mushroom,False,5sdDzzl866nMO5HQaNWrUH,I Wish,2018-10-11T19:43:38.430Z
+Grouplove,False,0GO8y8jQk1PkHzS31d699N,Tongue Tied,2018-10-11T19:37:49.942Z
+Zombie Nation,False,7g8cjrj0sXScNE727685JE,"Kernkraft 400 - DJ Gius Mix, Radio Edit",2018-10-11T19:31:07.458Z
+Panic! At The Disco,False,00h6syYCxPKVsInPHXhdZ1,Sarah Smiles,2018-10-11T19:27:40.560Z
+Polyphia,False,6zws4OjURj5NQox7MvKunh,Crosty,2018-10-12T15:56:39.524Z
+Polyphia,False,5QZ7TEd3h6OysmdMHm0Mfj,Icronic,2018-10-12T15:53:33.269Z
+"Polyphia, Nick Johnston",False,6HOstByHAFfuW1wVAaTTip,Champagne (feat. Nick Johnston),2018-10-12T15:49:41.606Z
+Polyphia,False,0NQX8uIipe2SbgjgKyfq59,Loud,2018-10-12T15:45:15.696Z
+"Polyphia, Mario Camarena, Erick Hansel",False,7pnBZ0vitnvhKzgCEafZ8A,Yas (feat. Mario Camarena and Erick Hansel),2018-10-12T15:41:17.320Z
+Martin Jensen,False,5Kf7cCeXrSlIpoGYokx3wJ,Sí,2018-10-12T15:40:06.585Z
+The Dear Hunter,False,7yg3UIbYx9kiOWHoGtFMqG,The Moon / Awake,2018-10-15T17:08:21.777Z
+Yuno,False,5ZGxxHixxBV7j9o1uUZFKc,Sunlight,2018-10-15T16:28:29.717Z
+MADEIRA,False,2p7TCbMW9XNONIgqG2mj9q,Manipulator,2018-10-15T16:24:56.159Z
+Yumi Zouma,False,38GUrVBl6kXy46GZ24eRso,December,2018-10-15T16:21:22.443Z
+DIIV,False,65O6zPSisPj2AvAjaY4Bfg,Healthy Moon,2018-10-15T16:17:26.819Z
+Part Time,False,3nNNsZcRqeUbva8LWkUjto,Cassie (Won’t You Be My Doll),2018-10-15T16:00:43.601Z
+Fleetwood Mac,False,19Ym5Sg0YyOCa6ao21bdoG,Gypsy,2018-10-15T15:44:17.293Z
+The Weather Girls,False,4caiYv89C9GZdDD1RzshWd,It's Raining Men,2018-10-15T15:14:25.530Z
+Nena,False,6HA97v4wEGQ5TUClRM0XLc,99 Luftballons,2018-10-15T15:10:52.772Z
+The Dear Hunter,False,1ZoCfOodvufqooNDXliKxw,King of Swords (Reversed),2018-10-15T15:07:01.693Z
+"Icona Pop, Charli XCX",True,3VZQshi4COChhXaz7cLP02,I Love It (feat. Charli XCX) - Original Version,2018-10-15T15:01:53.719Z
+The Dear Hunter,False,15qxRClwyQyaKziOCGz4ZR,Gloria,2018-10-15T05:09:56.461Z
+The Dear Hunter,False,7yg3UIbYx9kiOWHoGtFMqG,The Moon / Awake,2018-10-15T05:09:12.104Z
+The Dear Hunter,False,5nqEGZMdz5P3Z8t26WeMMN,The Bitter Suite III: Embrace,2018-10-15T05:03:01.786Z
+Charli XCX,False,69QmNaMqnhuvD5rhY0YQ5R,Famous,2018-10-15T04:55:10.534Z
+"Charli XCX, MØ",False,5cAokEuetqzaLMxhtQl4h2,Porsche (feat. MØ),2018-10-15T04:53:06.349Z
+Charli XCX,False,69QmNaMqnhuvD5rhY0YQ5R,Famous,2018-10-15T04:49:39.292Z
+Charli XCX,False,5lFdf6lKl6zRRexbRZ3MP5,Break The Rules,2018-10-15T04:45:47.154Z
+"Charli XCX, Lil Yachty",False,0y8Wf6ltWpGCpgqVa21QNX,After The Afterparty (feat. Lil Yachty),2018-10-15T04:41:56.967Z
+"David Guetta, Afrojack, Charli XCX, French Montana",True,0tPQPaOKM32WgMSbPCYyRH,Dirty Sexy Money (feat. Charli XCX & French Montana),2018-10-15T04:38:16.861Z
+"Icona Pop, Charli XCX",True,3VZQshi4COChhXaz7cLP02,I Love It (feat. Charli XCX) - Original Version,2018-10-15T04:35:23.611Z
+"Icona Pop, Charli XCX",True,3VZQshi4COChhXaz7cLP02,I Love It (feat. Charli XCX) - Original Version,2018-10-15T04:32:48.226Z
+"Bassnectar, Jantsen, RD",False,3wWOi4PlqODQJVhN6PY2lQ,Heavyweight Sound (feat. RD),2018-10-15T04:30:12.278Z
+"Bassnectar, Conrank",False,6dzYRxTPAspTmQDOnhl67O,Easy Does It,2018-10-15T04:25:32.824Z
+"Earth, Wind & Fire",False,3koCCeSaVUyrRo3N2gHrd8,Let's Groove,2018-10-15T04:21:13.761Z
+"Earth, Wind & Fire, The Emotions",False,6ztstiyZL6FXzh4aG46ZPD,Boogie Wonderland,2018-10-15T04:15:34.344Z
+"Icona Pop, Charli XCX",True,3VZQshi4COChhXaz7cLP02,I Love It (feat. Charli XCX) - Original Version,2018-10-15T04:10:45.532Z
+Nena,False,6HA97v4wEGQ5TUClRM0XLc,99 Luftballons,2018-10-15T04:07:47.277Z
+The Pointer Sisters,False,1ot6jEe4w4hYnsOPjd3xKQ,I'm So Excited,2018-10-15T03:46:29.413Z
+The Bangles,False,5MoDQWMDMaAGDEiWsJfeCi,Eternal Flame,2018-10-15T03:42:38.627Z
+"The Glitch Mob, Aja Volkman",False,3iFjScPoAC21CT5cbAFZ7b,Our Demons (feat. Aja Volkman),2018-10-15T03:36:16.390Z
+Tilian,False,2Qo16mkkHuu8qayp2JN32R,Cocky,2018-10-15T03:31:00.197Z
+Yuno,False,5ZGxxHixxBV7j9o1uUZFKc,Sunlight,2018-10-15T03:27:25.112Z
+Macy Gray,False,5TAf4lnZCZTLlZHNZMLFLi,I Try,2018-10-15T03:23:52.149Z
+Marvin Gaye,False,3VZmChrnVW8JK6ano4gSED,Sexual Healing,2018-10-15T03:19:52.257Z
+"Icona Pop, Charli XCX",True,6HZ9VeI5IRFCNQLXhpF4bq,I Love It (feat. Charli XCX),2018-10-15T03:15:02.555Z
+"Bassnectar, Jantsen, RD",False,3wWOi4PlqODQJVhN6PY2lQ,Heavyweight Sound (feat. RD),2018-10-15T03:12:23.564Z
+"Bassnectar, Conrank",False,6dzYRxTPAspTmQDOnhl67O,Easy Does It,2018-10-15T03:03:03.609Z
+"Icona Pop, Charli XCX",True,3VZQshi4COChhXaz7cLP02,I Love It (feat. Charli XCX) - Original Version,2018-10-15T02:59:17.255Z
+"Bassnectar, Jantsen, RD",False,3wWOi4PlqODQJVhN6PY2lQ,Heavyweight Sound (feat. RD),2018-10-14T19:52:39.662Z
+"Bassnectar, Conrank",False,6dzYRxTPAspTmQDOnhl67O,Easy Does It,2018-10-14T19:51:12.088Z
+"Icona Pop, Charli XCX",True,3VZQshi4COChhXaz7cLP02,I Love It (feat. Charli XCX) - Original Version,2018-10-14T19:44:40.082Z
+"Rusko, Bassnectar",False,4iPzWylVMumfmvSaF0zmPg,High - Bassnectar Remix,2018-10-14T19:42:02.553Z
+"Icona Pop, Charli XCX",True,3VZQshi4COChhXaz7cLP02,I Love It (feat. Charli XCX) - Original Version,2018-10-14T19:38:08.630Z
+"Gloria Estefan, Miami Sound Machine",False,53pZ8y3yMYUNpclGwIufu0,Conga,2018-10-14T19:35:34.022Z
+Whitney Houston,False,2tUBqZG2AbRi7Q0BIrVrEj,I Wanna Dance with Somebody (Who Loves Me),2018-10-14T19:34:06.737Z
+Grimes,False,2xMBf5lFjQvrkWL2toULNg,Artangels,2018-10-14T19:31:46.940Z
+Grimes,True,6pfmQTZWmwL2H2BpdzSl8l,Butterfly,2018-10-14T19:27:09.900Z
+"Icona Pop, Charli XCX",True,3VZQshi4COChhXaz7cLP02,I Love It (feat. Charli XCX) - Original Version,2018-10-14T19:22:56.821Z
+"David Maxim Micic, Miyoki",False,7MohZ0vAxyrzUjqfbQhDhw,Stardust,2018-10-14T05:30:03.588Z
+"Bassnectar, Conrank",False,6dzYRxTPAspTmQDOnhl67O,Easy Does It,2018-10-16T15:20:05.441Z
+"Icona Pop, Charli XCX",True,3VZQshi4COChhXaz7cLP02,I Love It (feat. Charli XCX) - Original Version,2018-10-16T15:15:59.225Z
+"Flume, Jezzabell Doran",False,0XzyXP0E9jsoOwu5Rd7hTV,Sleepless,2018-10-16T15:13:23.176Z
+Pupo,False,5NEY5p3kocPilzMAvMSDJ3,Tornerò,2018-10-16T15:07:38.815Z
+Adriano Celentano,False,1A8KX9aAN0OgU99cvvJvJ5,Azzurro,2018-10-16T15:03:51.317Z
+"Icona Pop, Charli XCX",True,6HZ9VeI5IRFCNQLXhpF4bq,I Love It (feat. Charli XCX),2018-10-16T15:00:09.961Z
+"Flume, Vince Staples, Ngaiire, Vera Blue, KUČKA",False,2Ou23o8Cqkrn46rLKLDLK6,"My Boo (feat. Vince Staples, Kučka, Ngaiire, Vera Blue) [Triple J Like A Version]",2018-10-16T14:57:32.418Z
+Ryan Paris,False,5zKvWJNxiTBZC7UheIYvD4,La dolce vita,2018-10-16T01:01:14.835Z
+Franco Battiato,False,3lrWDf4tx6MgqXCFfw5mYx,Radio Varsavia - Remastered,2018-10-16T01:00:15.264Z
+"Giorgio Moroder, Joe Esposito",False,7BAgOJ9ju65qiLXH76QLaD,"Lady, Lady - Remastered",2018-10-16T00:56:01.833Z
+Loredana Bertè,False,4COAOWTtlt8WgtA7AoxSeT,J'adore Venise,2018-10-16T00:46:48.836Z
+"Earth, Wind & Fire",False,3koCCeSaVUyrRo3N2gHrd8,Let's Groove,2018-10-15T22:56:52.103Z
+The Dear Hunter,False,7yg3UIbYx9kiOWHoGtFMqG,The Moon / Awake,2018-10-15T22:51:12.070Z
+The Dear Hunter,False,3ig2dV1bPM5ejNjd0iOp9U,Waves,2018-10-15T22:45:02.648Z
+"Earth, Wind & Fire, The Emotions",False,6ztstiyZL6FXzh4aG46ZPD,Boogie Wonderland,2018-10-15T22:40:49.613Z
+Marvin Gaye,False,0jHkgTtTaqg5LNCiYDQPUB,Let's Get It On,2018-10-15T22:33:52.306Z
+Pendulum,False,26s79pNvksAh8tlEembKm3,The Island - Pt. II (Dusk),2018-10-15T19:38:50.812Z
+Pendulum,False,1Thv8uCYzyOFC7PME9J936,The Island - Pt. I (Dawn),2018-10-15T19:34:41.703Z
+The Dear Hunter,False,3ig2dV1bPM5ejNjd0iOp9U,Waves,2018-10-15T18:31:25.448Z
+Marvin Gaye,False,0jHkgTtTaqg5LNCiYDQPUB,Let's Get It On,2018-10-15T18:27:12.505Z
+Tame Impala,True,6K4t31amVTZDgR3sKmwUJJ,The Less I Know The Better,2018-10-15T18:22:21.041Z
+"Icona Pop, Charli XCX",True,3VZQshi4COChhXaz7cLP02,I Love It (feat. Charli XCX) - Original Version,2018-10-15T17:33:11.161Z
+"The Glitch Mob, Aja Volkman",False,4pJtc0xFnr0JYvyRNFXuFS,I Need My Memory Back (feat. Aja Volkman),2018-10-17T05:47:51.489Z
+"The Glitch Mob, Sister Crayon",False,150H8Ux0KOnHtU27nQ93Wy,Beauty of the Unhidden Heart (feat. Sister Crayon),2018-10-17T05:42:03.802Z
+"The Glitch Mob, Elohim",False,60OKXIsdVGnXtYxGASWwCx,I Could Be Anything (feat. Elohim),2018-10-17T05:37:33.089Z
+Pendulum,False,26s79pNvksAh8tlEembKm3,The Island - Pt. II (Dusk),2018-10-17T05:32:20.908Z
+Pendulum,False,3cNsLpqu5TGoGKwM6cyZXB,The Vulture,2018-10-17T05:31:50.557Z
+"Pendulum, Steven Wilson",False,5blXK1R7GYL7gY2PVGxC90,The Fountain (feat. Steven Wilson),2018-10-17T05:28:28.856Z
+Avril Lavigne,True,1rdreHH1v6kyrx2mFQvLR4,Here's to Never Growing Up,2018-10-17T05:24:18.455Z
+Taylor Swift,False,3esA216TyLHEkNiBCeCmcg,The Best Day,2018-10-17T05:19:16.448Z
+"Charli XCX, Lil Yachty",False,0y8Wf6ltWpGCpgqVa21QNX,After The Afterparty (feat. Lil Yachty),2018-10-17T05:15:17.964Z
+"Owl City, Hanson",False,6vysCzjEwFF4flCw3d6DeO,Unbelievable,2018-10-17T05:11:41.332Z
+Taylor Swift,False,3esA216TyLHEkNiBCeCmcg,The Best Day,2018-10-17T01:52:55.763Z
+Panic! At The Disco,False,00h6syYCxPKVsInPHXhdZ1,Sarah Smiles,2018-10-17T01:48:52.079Z
+Jai Wolf,False,42nkVBjWYVhiijbof5zySm,Indian Summer,2018-10-17T01:45:34.177Z
+"Portugal. The Man, Mary Elizabeth Winstead, Zoe Manville",False,6UL2p4Uutwc5fh0iVEpbCn,"Noise Pollution (feat. Mary Elizabeth Winstead & Zoe Manville) - Version A, Vocal Up Mix 1.3",2018-10-17T01:43:32.709Z
+Stark Sands,False,1aceQjRY92RCxd46WxylcX,Soul of a Man,2018-10-17T01:33:54.251Z
+Infected Mushroom,False,5sdDzzl866nMO5HQaNWrUH,I Wish,2018-10-17T01:30:16.840Z
+Infected Mushroom,False,5MvnLMIXoDZAcchH0UGb1P,Dancing With Kadafi,2018-10-17T01:27:12.294Z
+Infected Mushroom,False,2NRFvNVeJ7GVQ46WW8lUbx,Saeed,2018-10-17T01:26:02.618Z
+Infected Mushroom,False,5MvnLMIXoDZAcchH0UGb1P,Dancing With Kadafi,2018-10-17T01:13:54.402Z
+"Lights Follow, Matthew Heath, Grady Griggs",False,5WBxAaS9nNnWTH469p0Ht0,Slow Down (feat. Matthew Heath & Grady Griggs),2018-10-17T01:09:25.010Z
+"ZAYN, Sia",False,1j4kHkkpqZRBwE0A4CN4Yv,Dusk Till Dawn - Radio Edit,2018-10-17T00:20:15.995Z
+"A R I Z O N A, Kiiara",False,6JsfvqClYnc2R5yZ67C2ch,Cross My Mind Pt. 2 (feat. Kiiara),2018-10-17T00:16:16.138Z
+A R I Z O N A,False,6A8dnC0xkiuWN4BshmTB2I,Oceans Away,2018-10-17T00:12:37.950Z
+Alvvays,False,5HLes17mwCwKt81mi0Tk35,"Archie, Marry Me",2018-10-17T00:09:23.727Z
+"Pendulum, Steven Wilson",False,5blXK1R7GYL7gY2PVGxC90,The Fountain (feat. Steven Wilson),2018-10-17T00:06:07.818Z
+Part Time,False,1iJSpNeq4XleP4BOcPwMXt,Honey Lips,2018-10-17T00:00:44.691Z
+David Heartbreak,False,6RBdbgLbOwDZ01OuMzsckx,Rose Colored Bass - Bassnectar Remix,2018-10-16T23:57:46.196Z
+"Bassnectar, W. Darling",False,3x94KfC5QAsqFKjUGQBH4k,You & Me (feat. W. Darling),2018-10-16T23:53:08.763Z
+"Bassnectar, Seth Drake",False,7vFQliBjsAIfpteEzYOCOS,F.U.N.,2018-10-16T23:26:43.864Z
+Marco Armani,False,1HotImCahCrlgDkzk6jZ8p,E' la vita,2018-10-16T23:22:02.602Z
+Ricchi E Poveri,False,08sbpioHxwU7zyyMvmC8A9,Sara' Perche Ti Amo,2018-10-16T23:18:10.481Z
+Ryan Paris,False,5zKvWJNxiTBZC7UheIYvD4,La dolce vita,2018-10-16T23:15:35.844Z
+The Psychedelic Furs,False,1mqytV5qZcmzG6MgvJCpkQ,Love My Way,2018-10-16T23:12:07.251Z
+Franco Battiato,False,3lrWDf4tx6MgqXCFfw5mYx,Radio Varsavia - Remastered,2018-10-16T23:08:35.035Z
+Loredana Bertè,False,4COAOWTtlt8WgtA7AoxSeT,J'adore Venise,2018-10-16T19:56:05.473Z
+Toto Cutugno,False,7kxVSOxdKlUtEDgJDFqkB2,Serenata,2018-10-16T19:51:50.221Z
+Tilian,True,27aQkV5FcH8AOuAnTq6frJ,Favor the Gods,2018-10-16T19:49:45.320Z
+"Flume, Vince Staples, Ngaiire, Vera Blue, KUČKA",False,2Ou23o8Cqkrn46rLKLDLK6,"My Boo (feat. Vince Staples, Kučka, Ngaiire, Vera Blue) [Triple J Like A Version]",2018-10-16T17:40:22.137Z
+"Bassnectar, Jantsen, RD",False,3wWOi4PlqODQJVhN6PY2lQ,Heavyweight Sound (feat. RD),2018-10-16T17:36:31.632Z
+"The Glitch Mob, Tula",False,1W0RXv9ACfvFbgb3CjdOyK,How Could This Be Wrong (feat. Tula),2018-10-21T22:58:29.711Z
+"The Glitch Mob, Tula",False,4zpFO5ma0T4z033YaPh5BZ,Keep on Breathing (feat. Tula),2018-10-21T22:53:38.661Z
+"The Glitch Mob, Elohim",False,60OKXIsdVGnXtYxGASWwCx,I Could Be Anything (feat. Elohim),2018-10-21T22:50:26.253Z
+The Glitch Mob,False,0hUjW8abCqrRDzZhNDY887,Mind of a Beast,2018-10-21T22:40:41.987Z
+"The Glitch Mob, Aja Volkman",False,3iFjScPoAC21CT5cbAFZ7b,Our Demons (feat. Aja Volkman),2018-10-21T22:36:24.891Z
+"The Glitch Mob, Sister Crayon",False,150H8Ux0KOnHtU27nQ93Wy,Beauty of the Unhidden Heart (feat. Sister Crayon),2018-10-21T22:31:07.595Z
+Backstreet Boys,False,6e40mgJiCid5HRAGrbpGA6,I Want It That Way,2018-10-21T22:24:45.002Z
+Whitney Houston,False,2eHj0klWkwRQuIrNlPpCPa,I'm Every Woman,2018-10-21T22:16:06.467Z
+Shania Twain,False,7wCH9DbgRs7ujHeqNy6oAS,You're Still The One,2018-10-21T22:12:03.137Z
+Britney Spears,False,3MjUtNVVq3C8Fn0MP3zhXa,...Baby One More Time,2018-10-21T22:08:38.095Z
+No Doubt,False,6urCAbunOQI4bLhmGpX7iS,Don't Speak,2018-10-21T21:37:42.412Z
+Spice Girls,False,1Je1IMUlBXcx1Fz0WE7oPT,Wannabe,2018-10-21T21:33:18.698Z
+"Bassnectar, Jantsen, RD",False,3wWOi4PlqODQJVhN6PY2lQ,Heavyweight Sound (feat. RD),2018-10-21T21:30:26.350Z
+"Rusko, Bassnectar",False,4iPzWylVMumfmvSaF0zmPg,High - Bassnectar Remix,2018-10-21T21:28:09.405Z
+"Bassnectar, Conrank",False,6dzYRxTPAspTmQDOnhl67O,Easy Does It,2018-10-21T21:24:14.707Z
+Pendulum,False,5E1UIRcuHd7Rr7PYbQSEOu,Set Me On Fire,2018-10-21T21:06:19.896Z
+The Dear Hunter,False,5nqEGZMdz5P3Z8t26WeMMN,The Bitter Suite III: Embrace,2018-10-21T19:16:16.801Z
+The Dear Hunter,False,7yg3UIbYx9kiOWHoGtFMqG,The Moon / Awake,2018-10-21T18:58:43.747Z
+David Heartbreak,False,6RBdbgLbOwDZ01OuMzsckx,Rose Colored Bass - Bassnectar Remix,2018-10-21T18:52:38.890Z
+"Bassnectar, Seth Drake",False,7vFQliBjsAIfpteEzYOCOS,F.U.N.,2018-10-21T18:41:17.171Z
+Pendulum,False,6hzwfFKrTabeUsW5SWti17,Crush,2018-10-21T18:36:34.709Z
+Pupo,False,5NEY5p3kocPilzMAvMSDJ3,Tornerò,2018-10-21T18:31:39.713Z
+Pendulum,False,5E1UIRcuHd7Rr7PYbQSEOu,Set Me On Fire,2018-10-21T18:27:52.234Z
+Adriano Celentano,False,1A8KX9aAN0OgU99cvvJvJ5,Azzurro,2018-10-21T18:22:50.233Z
+"Giorgio Moroder, Joe Esposito",False,7BAgOJ9ju65qiLXH76QLaD,"Lady, Lady - Remastered",2018-10-21T18:22:17.715Z
+Adriano Celentano,False,1A8KX9aAN0OgU99cvvJvJ5,Azzurro,2018-10-21T18:18:03.761Z
+Loretta Goggi,False,7sWeCEoU28blxdUXZIBhjj,Maledetta primavera,2018-10-21T18:14:48.153Z
+Yumi Zouma,False,38GUrVBl6kXy46GZ24eRso,December,2018-10-21T18:10:35.512Z
+Yuno,False,5ZGxxHixxBV7j9o1uUZFKc,Sunlight,2018-10-21T18:08:20.794Z
+MADEIRA,False,2p7TCbMW9XNONIgqG2mj9q,Manipulator,2018-10-21T18:04:47.125Z
+Infected Mushroom,False,5sdDzzl866nMO5HQaNWrUH,I Wish,2018-10-21T17:45:56.445Z
+"Infected Mushroom, Paranormal Attack, Skazi",False,50tUMn6P26omoBXM7T3PQE,Saeed - Paranormal Attack & Skazi Remix,2018-10-21T17:42:55.076Z
+Pendulum,False,26s79pNvksAh8tlEembKm3,The Island - Pt. II (Dusk),2018-10-21T17:38:29.526Z
+Pendulum,False,4Y2glvLjQGOb4dXnwm1hQf,Witchcraft,2018-10-21T17:31:04.976Z
+"Sia, Diplo, Labrinth, LSD",False,73F87Sqh6jQWucOOvz1WFx,"Genius - with Sia, Diplo & Labrinth",2018-10-21T17:26:51.809Z
+Pendulum,False,3cNsLpqu5TGoGKwM6cyZXB,The Vulture,2018-10-21T17:18:18.859Z
+Pendulum,False,26s79pNvksAh8tlEembKm3,The Island - Pt. II (Dusk),2018-10-21T17:14:16.611Z
+Pendulum,False,26s79pNvksAh8tlEembKm3,The Island - Pt. II (Dusk),2018-10-21T17:05:31.860Z
+Pendulum,False,1Thv8uCYzyOFC7PME9J936,The Island - Pt. I (Dawn),2018-10-21T17:01:21.893Z
+DIIV,False,65O6zPSisPj2AvAjaY4Bfg,Healthy Moon,2018-10-21T16:56:02.785Z
+"Pendulum, Steven Wilson",False,5blXK1R7GYL7gY2PVGxC90,The Fountain (feat. Steven Wilson),2018-10-21T16:53:00.480Z
+Infected Mushroom,False,7FH38uzPfigJoT92TCe3sx,Wanted To,2018-10-21T16:47:59.165Z
+Part Time,False,1iJSpNeq4XleP4BOcPwMXt,Honey Lips,2018-10-21T16:44:35.659Z
+Tame Impala,True,6K4t31amVTZDgR3sKmwUJJ,The Less I Know The Better,2018-10-21T16:41:49.008Z
+Part Time,False,3nNNsZcRqeUbva8LWkUjto,Cassie (Won’t You Be My Doll),2018-10-21T16:38:12.131Z
+Plini,False,1IlCwH3SJMizQyEuryV1qg,Cascade,2018-10-21T16:34:26.117Z
+Plini,False,1TzoCGN6NdcCcenpb5jsHS,"Here We Are, Again",2018-10-21T16:09:37.700Z
+Plini,False,4MquGRFKE1Sj8QTrZDNFeg,Pastures,2018-10-21T16:06:59.923Z
+Plini,False,25RDHbzKzGSUefENv5uz9M,Every Piece Matters,2018-10-21T15:59:25.859Z
+Plini,False,6nEU8smDVQD7w2oMMhpEqP,Inhale,2018-10-21T15:55:45.654Z
+Marvin Gaye,False,0jHkgTtTaqg5LNCiYDQPUB,Let's Get It On,2018-10-29T04:32:29.846Z
+Taylor Dayne,False,3YVPpVJvJG2EauXurPA90F,Tell It to My Heart,2018-10-29T04:19:49.034Z
+Tiffany,False,0n1NI4TnEw0SeXSS4DNhhb,I Think We're Alone Now,2018-10-29T04:18:10.754Z
+David Heartbreak,False,6RBdbgLbOwDZ01OuMzsckx,Rose Colored Bass - Bassnectar Remix,2018-10-29T04:15:27.702Z
+"Bassnectar, W. Darling",False,3x94KfC5QAsqFKjUGQBH4k,You & Me (feat. W. Darling),2018-10-29T04:09:00.734Z
+Zombie Nation,False,7g8cjrj0sXScNE727685JE,"Kernkraft 400 - DJ Gius Mix, Radio Edit",2018-10-29T04:04:57.357Z
+Pendulum,False,5ami95W9OOWQPwrBb5tud5,Watercolour,2018-10-29T04:03:35.275Z
+Pendulum,False,26s79pNvksAh8tlEembKm3,The Island - Pt. II (Dusk),2018-10-29T04:00:24.524Z
+"Wolf Alice, Charli XCX, Post Precious",False,4sA8sHd9o1NbsdkfHNwNPd,Don't Delete The Kisses - Charli XCX x Post Precious Remix,2018-10-29T03:59:24.014Z
+Grimes,True,6pfmQTZWmwL2H2BpdzSl8l,Butterfly,2018-10-29T03:55:04.923Z
+Grimes,False,2xMBf5lFjQvrkWL2toULNg,Artangels,2018-10-29T03:53:01.633Z
+Panic! At The Disco,False,00h6syYCxPKVsInPHXhdZ1,Sarah Smiles,2018-10-28T17:11:49.165Z
+"Rusko, Bassnectar",False,4iPzWylVMumfmvSaF0zmPg,High - Bassnectar Remix,2018-10-28T16:50:13.050Z
+"Bassnectar, Conrank",False,6dzYRxTPAspTmQDOnhl67O,Easy Does It,2018-10-28T16:30:58.798Z
+"Bassnectar, Lafa Taylor",False,1ti43ZT6bc4o1eGOSnBHkO,Speakerbox (feat. Lafa Taylor),2018-10-28T16:26:40.248Z
+Panic! At The Disco,False,3fwKVZ73y7UUGMyR6rVCRa,Golden Days,2018-10-28T16:21:44.133Z
+Infected Mushroom,False,6r7XGyCsFwYIjodkzKsxwk,Heavyweight,2018-10-28T15:19:45.350Z
+"Infected Mushroom, Paranormal Attack, Skazi",False,50tUMn6P26omoBXM7T3PQE,Saeed - Paranormal Attack & Skazi Remix,2018-10-28T15:11:03.387Z
+Infected Mushroom,False,5sdDzzl866nMO5HQaNWrUH,I Wish,2018-10-28T15:06:36.078Z
+"Sia, Diplo, Labrinth, LSD",False,73F87Sqh6jQWucOOvz1WFx,"Genius - with Sia, Diplo & Labrinth",2018-10-28T15:03:36.322Z
+Infected Mushroom,False,3VWsBrDVQDygBhWGX0UwbE,Where Do I Belong,2018-10-28T15:00:09.581Z
+"Lights Follow, Matthew Heath, Grady Griggs",False,5WBxAaS9nNnWTH469p0Ht0,Slow Down (feat. Matthew Heath & Grady Griggs),2018-10-28T14:59:37.474Z
+Infected Mushroom,False,3VWsBrDVQDygBhWGX0UwbE,Where Do I Belong,2018-10-28T14:56:12.760Z
+A R I Z O N A,False,6A8dnC0xkiuWN4BshmTB2I,Oceans Away,2018-10-28T14:53:32.415Z
+Alvvays,False,5HLes17mwCwKt81mi0Tk35,"Archie, Marry Me",2018-10-28T14:52:04.267Z
+"Pendulum, Steven Wilson",False,5blXK1R7GYL7gY2PVGxC90,The Fountain (feat. Steven Wilson),2018-10-28T14:48:53.662Z
+David Heartbreak,False,6RBdbgLbOwDZ01OuMzsckx,Rose Colored Bass - Bassnectar Remix,2018-10-28T14:44:16.840Z
+Part Time,False,1iJSpNeq4XleP4BOcPwMXt,Honey Lips,2018-10-28T14:41:09.102Z
+Pendulum,False,26s79pNvksAh8tlEembKm3,The Island - Pt. II (Dusk),2018-10-28T14:38:13.454Z
+Pendulum,False,4Y2glvLjQGOb4dXnwm1hQf,Witchcraft,2018-10-28T04:26:36.356Z
+Pendulum,False,3cNsLpqu5TGoGKwM6cyZXB,The Vulture,2018-10-28T04:13:09.904Z
+Pendulum,False,26s79pNvksAh8tlEembKm3,The Island - Pt. II (Dusk),2018-10-28T04:09:06.460Z
+"Pendulum, Steven Wilson",False,5blXK1R7GYL7gY2PVGxC90,The Fountain (feat. Steven Wilson),2018-10-28T04:04:55.620Z
+"Wolf Alice, Charli XCX, Post Precious",False,4sA8sHd9o1NbsdkfHNwNPd,Don't Delete The Kisses - Charli XCX x Post Precious Remix,2018-10-28T04:01:50.772Z
+"Bassnectar, W. Darling",False,3x94KfC5QAsqFKjUGQBH4k,You & Me (feat. W. Darling),2018-10-28T03:58:01.961Z
+"Bassnectar, Seth Drake",False,7vFQliBjsAIfpteEzYOCOS,F.U.N.,2018-10-28T03:54:22.501Z
+Panic! At The Disco,False,1BECwm5qkaBwlbfo4kpYx8,Death Of A Bachelor,2018-10-28T03:50:34.456Z
+Panic! At The Disco,False,3px2rAPu74ltbkf9eZsZ8h,Emperor's New Clothes,2018-10-28T03:49:03.535Z
+Panic! At The Disco,False,2fh3bZ8jZhMxOcfESE9nQY,Don't Threaten Me With A Good Time,2018-10-28T03:46:25.692Z
+TesseracT,False,6CfwYtEnSDgMxosLZ5Vbiu,Of Matter - Proxy,2018-10-27T22:50:37.457Z
+Charli XCX,False,1KPS1MHPrq9uPklJX8Q4XW,ILY2,2018-10-27T20:53:09.293Z
+Pendulum,False,5E1UIRcuHd7Rr7PYbQSEOu,Set Me On Fire,2018-10-27T20:03:47.833Z
+David Heartbreak,False,6RBdbgLbOwDZ01OuMzsckx,Rose Colored Bass - Bassnectar Remix,2018-10-27T19:58:46.010Z
+Grimes,False,2HatzmU2P4RehpC0GYyfUQ,Life in the Vivid Dream,2018-10-27T19:56:35.451Z
+"Grimes, Janelle Monáe",False,3JI2mIJto0JuYbrq87aFqu,Venus Fly,2018-10-27T19:55:09.279Z
+Grimes,False,4ZcGbQ5dOKX6rJk4yvza9R,Flesh without Blood,2018-10-27T19:50:41.945Z
+Grimes,False,2xMBf5lFjQvrkWL2toULNg,Artangels,2018-10-27T19:20:33.179Z
+Grimes,True,6pfmQTZWmwL2H2BpdzSl8l,Butterfly,2018-10-27T19:14:39.726Z
+Grimes,False,17eu2pSgSUpIG1GFWBnODv,Kill V. Maim,2018-10-27T19:10:27.525Z
+TesseracT,False,1xj9Mdr9jtBpRA6WqqMYbn,Juno,2018-10-27T16:54:02.412Z
+Irene Cara,False,0aAR5HogGoT68EWFbyRFqx,What A Feeling,2018-10-31T16:56:42.724Z
+Tears For Fears,False,4RvWPyQ5RL0ao9LPZeSouE,Everybody Wants To Rule The World,2018-10-31T16:53:13.972Z
+Cyndi Lauper,False,4y1LsJpmMti1PfRQV9AWWe,Girls Just Want to Have Fun,2018-10-31T16:49:01.940Z
+Whitney Houston,False,2eHj0klWkwRQuIrNlPpCPa,I'm Every Woman,2018-10-31T16:41:17.231Z
+Whitney Houston,False,2tUBqZG2AbRi7Q0BIrVrEj,I Wanna Dance with Somebody (Who Loves Me),2018-10-31T16:36:44.251Z
+Taylor Dayne,False,3YVPpVJvJG2EauXurPA90F,Tell It to My Heart,2018-10-31T16:32:57.350Z
+"The Glitch Mob, Yaarrohs",False,5MhogVeF84CTzQSVRE31dv,Fly By Night Only (feat. Yaarrohs),2018-10-31T16:29:17.318Z
+TesseracT,False,6conLq3FI2EHqUuFc7LH6J,Smile,2018-10-31T16:24:31.507Z
+TesseracT,False,0pfuQHU0YfhmaHJ99W9lDb,Beneath My Skin / Mirror Image,2018-10-31T16:18:01.570Z
+TesseracT,False,1xj9Mdr9jtBpRA6WqqMYbn,Juno,2018-10-31T16:06:40.627Z
+TesseracT,False,0h5OaST7FKfGsWFMD8fcsk,Orbital,2018-10-31T16:01:27.876Z
+TesseracT,False,3hs3Xcbk1p2YHxmfcieLiU,King,2018-10-31T15:59:08.842Z
+TesseracT,False,5wLpRSdYys13AeH8o0V8aE,Luminary,2018-10-31T15:52:12.871Z
+TesseracT,False,1dMabx7tqxUpeDYQAu8c7S,The Arrow,2018-10-31T15:48:59.441Z
+TesseracT,False,4a2GjzffBEBtaa3u6Im34R,Of Matter - Retrospect,2018-10-31T15:46:21.923Z
+TesseracT,False,0h5OaST7FKfGsWFMD8fcsk,Orbital,2018-10-31T15:40:48.999Z
+TesseracT,False,0pfuQHU0YfhmaHJ99W9lDb,Beneath My Skin / Mirror Image,2018-10-31T15:38:29.435Z
+TesseracT,False,6conLq3FI2EHqUuFc7LH6J,Smile,2018-10-31T15:27:07.969Z
+TesseracT,False,6CfwYtEnSDgMxosLZ5Vbiu,Of Matter - Proxy,2018-10-31T15:22:20.173Z
+TesseracT,False,1xj9Mdr9jtBpRA6WqqMYbn,Juno,2018-10-31T15:17:14.873Z
+TesseracT,False,3hs3Xcbk1p2YHxmfcieLiU,King,2018-10-31T15:12:01.579Z
+TesseracT,False,5wLpRSdYys13AeH8o0V8aE,Luminary,2018-10-31T15:05:05.619Z
+TesseracT,False,7khQrdng5Zj4bkpS7sQr17,Of Mind - Nocturne,2018-10-31T15:01:51.286Z
+"The Glitch Mob, Yaarrohs",False,5MhogVeF84CTzQSVRE31dv,Fly By Night Only (feat. Yaarrohs),2018-10-31T14:38:43.858Z
+Sia,False,3AlpkljBS1AU7HFVPms8K6,Santa's Coming For Us,2018-10-31T14:33:55.838Z
+"Rusko, Bassnectar",False,4iPzWylVMumfmvSaF0zmPg,High - Bassnectar Remix,2018-10-31T14:30:29.009Z
+"Bassnectar, Lafa Taylor",False,1ti43ZT6bc4o1eGOSnBHkO,Speakerbox (feat. Lafa Taylor),2018-10-31T14:26:32.164Z
+"Maroon 5, Cardi B",True,6FRLCMO5TUHTexlWo8ym1W,Girls Like You (feat. Cardi B),2018-10-31T14:21:50.973Z
+Steven Wilson,False,4kZbYkUuDHyphD71bPMYL1,Drive Home,2018-10-31T01:10:20.534Z
+Ehrling,False,3jMBi2gmrOC8LzJIDbIIVW,No Worries,2018-10-31T01:02:43.753Z
+Part Time,False,1iJSpNeq4XleP4BOcPwMXt,Honey Lips,2018-10-31T01:00:29.584Z
+Purity Ring,False,1Bildp7NM39gR3smbMh8W1,begin again,2018-10-31T00:57:31.765Z
+Purity Ring,False,63PI19vMiCXKzwUwGtmjUX,sea castle,2018-10-30T23:04:35.517Z
+Purity Ring,False,63PI19vMiCXKzwUwGtmjUX,sea castle,2018-10-30T23:01:32.241Z
+"The Glitch Mob, Rituals of Mine",False,5J04iXfYhlOT0SOyzVFfSo,Enter Formless (feat. Rituals of Mine),2018-10-30T22:58:06.063Z
+Purity Ring,False,2DopRU3QWz4CWymUUrKvO4,bodyache,2018-10-30T22:55:21.980Z
+"The Glitch Mob, Ambré",False,6Hx2nDGEL5kwlm4fIaeaR7,How Do I Get to Invincible (feat. Ambré),2018-10-30T22:43:49.073Z
+"The Glitch Mob, Yaarrohs",False,5MhogVeF84CTzQSVRE31dv,Fly By Night Only (feat. Yaarrohs),2018-10-30T20:58:25.990Z
+"The Glitch Mob, Metal Mother",False,1MHNTOgD58Cdw8IoCs97xM,Becoming Harmonious (feat. Metal Mother),2018-10-30T20:53:30.351Z
+"The Glitch Mob, Sister Crayon",False,150H8Ux0KOnHtU27nQ93Wy,Beauty of the Unhidden Heart (feat. Sister Crayon),2018-10-30T20:48:49.061Z
+"The Glitch Mob, Yaarrohs",False,5MhogVeF84CTzQSVRE31dv,Fly By Night Only (feat. Yaarrohs),2018-10-30T20:44:11.102Z
+"The Glitch Mob, Elohim",False,60OKXIsdVGnXtYxGASWwCx,I Could Be Anything (feat. Elohim),2018-10-30T19:22:27.691Z
+"The Glitch Mob, Tula",False,1W0RXv9ACfvFbgb3CjdOyK,How Could This Be Wrong (feat. Tula),2018-10-30T19:04:47.146Z
+The Glitch Mob,False,2v6dNdD8XnlrGKXw3cOr92,Way out is In,2018-10-30T18:59:57.760Z
+The Glitch Mob,False,2TYO6hpZjbNHmpHKKUgIt9,Disintegrate Slowly,2018-10-30T18:54:40.352Z
+The Glitch Mob,False,6CXxofiP6t48yXcPQILDxc,Interbeing,2018-10-30T18:50:03.987Z
+"The Glitch Mob, Ambré",False,6Hx2nDGEL5kwlm4fIaeaR7,How Do I Get to Invincible (feat. Ambré),2018-10-30T18:47:02.937Z
+The Glitch Mob,False,0gFzN8dCeo8nbijPjkuRA9,Come Closer,2018-10-30T18:43:03.496Z
+"The Glitch Mob, Rituals of Mine",False,5J04iXfYhlOT0SOyzVFfSo,Enter Formless (feat. Rituals of Mine),2018-10-30T18:37:36.779Z
+"The Glitch Mob, Arama",False,494Cvcf3kIkVa5uFgwoqmQ,Take Me with You (feat. Arama),2018-10-30T18:32:55.446Z
+"The Glitch Mob, Yaarrohs",False,5MhogVeF84CTzQSVRE31dv,Fly By Night Only (feat. Yaarrohs),2018-11-01T01:16:08.063Z
+"The Glitch Mob, Elohim",False,1CfVcDXiOShtnwvdQ4TtBh,I Could Be Anything (feat. Elohim),2018-11-01T01:11:19.670Z
+Sia,False,3AlpkljBS1AU7HFVPms8K6,Santa's Coming For Us,2018-11-01T01:07:09.527Z
+Tears For Fears,False,2bsqAtyrepoPc5m71FVmac,Listen - Clean Intro,2018-11-01T01:03:44.355Z
+"Maroon 5, Cardi B",True,6FRLCMO5TUHTexlWo8ym1W,Girls Like You (feat. Cardi B),2018-11-01T00:58:35.810Z
+Tears For Fears,False,4RvWPyQ5RL0ao9LPZeSouE,Everybody Wants To Rule The World,2018-11-01T00:54:39.879Z
+"The Glitch Mob, Yaarrohs",False,5MhogVeF84CTzQSVRE31dv,Fly By Night Only (feat. Yaarrohs),2018-11-01T00:50:28.441Z
+Right Said Fred,False,2WElktskrNJEwgpp5Vouxk,I'm Too Sexy,2018-10-31T21:40:23.175Z
+Aqua,False,2RSOzvKUnfDDrb2nQPfpQU,Barbie Girl,2018-10-31T21:37:19.592Z
+Spice Girls,False,1Je1IMUlBXcx1Fz0WE7oPT,Wannabe,2018-10-31T21:34:02.637Z
+"The Glitch Mob, Metal Mother",False,1MHNTOgD58Cdw8IoCs97xM,Becoming Harmonious (feat. Metal Mother),2018-10-31T21:28:05.678Z
+"The Glitch Mob, Yaarrohs",False,5MhogVeF84CTzQSVRE31dv,Fly By Night Only (feat. Yaarrohs),2018-10-31T21:23:24.782Z
+Whitney Houston,False,2eHj0klWkwRQuIrNlPpCPa,I'm Every Woman,2018-10-31T21:18:38.408Z
+Prototyperaptor,False,4QwMCXtsoCdIrK7oNJkhGW,Thrillseeker,2018-10-31T21:14:52.409Z
+Pendulum,False,6hzwfFKrTabeUsW5SWti17,Crush,2018-10-31T21:04:55.042Z
+Pendulum,False,5AhJXm6nrCNDjVphyBUeLH,Under The Waves,2018-10-31T20:59:42.610Z
+Pendulum,False,4ESOC1Jott4MYNH9cYuF8z,Salt In The Wounds,2018-10-31T20:54:47.011Z
+"Tiga, Audion",False,28fgeo9WtiH1CBfjgDauMa,Let's Go Dancing,2018-10-31T20:48:00.941Z
+OVERWERK,False,3rgrZZEyfn05s56Rf1Yuj2,Reign,2018-10-31T20:44:32.014Z
+The Dear Hunter,False,3ig2dV1bPM5ejNjd0iOp9U,Waves,2018-10-31T20:39:57.536Z
+"The Glitch Mob, Yaarrohs",False,5MhogVeF84CTzQSVRE31dv,Fly By Night Only (feat. Yaarrohs),2018-10-31T20:36:22.231Z
+Cyndi Lauper,False,4y1LsJpmMti1PfRQV9AWWe,Girls Just Want to Have Fun,2018-10-31T19:38:12.398Z
+Tears For Fears,False,4RvWPyQ5RL0ao9LPZeSouE,Everybody Wants To Rule The World,2018-10-31T19:34:12.583Z
+"The Glitch Mob, Yaarrohs",False,5MhogVeF84CTzQSVRE31dv,Fly By Night Only (feat. Yaarrohs),2018-10-31T18:30:22.011Z
+The Bangles,False,5MoDQWMDMaAGDEiWsJfeCi,Eternal Flame,2018-10-31T18:25:59.741Z
+Soft Cell,False,1tVzVPIcCFz5QUMGLPHJEc,Tainted Love,2018-10-31T18:22:02.814Z
+REO Speedwagon,False,7CR06UPgZvsd2Y3MNjIVnA,Keep on Loving You,2018-10-31T18:19:26.794Z
+The J. Geils Band,False,1ynmMEK1fkyiZ6Z6F3ThEt,Centerfold,2018-10-31T18:18:13.725Z
+Tears For Fears,False,4RvWPyQ5RL0ao9LPZeSouE,Everybody Wants To Rule The World,2018-10-31T18:14:36.591Z
+Bryan Adams,False,7Ewz6bJ97vUqk5HdkvguFQ,Heaven,2018-10-31T18:10:24.680Z
+Queen,False,35ItUJlMtjOQW3SSiTCrrw,Crazy Little Thing Called Love - Remastered 2011,2018-10-31T18:06:20.889Z
+Gabriel Kahane,False,6KtyjO1QZ7M1rUebWlfhX3,Veda (1 Pierce Dr.),2018-11-05T19:59:10.810Z
+Gabriel Kahane,False,1Z2uOoVOaZMYNpDHHYpVNs,Griffith Park (2800 E. Observatory Ave.),2018-11-05T19:55:56.267Z
+Trouble Sleeping Music Universe,False,4DxIOi5L2XCByvMygMN5QF,Golden Slumber,2018-11-05T12:38:42.349Z
+Soothing Chill Out for Insomnia,False,26UQ1HwwKQrwhYbcLHF9CB,White Noise with Ocean Waves,2018-11-05T10:44:09.475Z
+Baby Sleep Lullaby Academy,False,7FakfOsgZcyA8piwESr07E,Intimate Moments,2018-11-05T10:40:05.334Z
+Baby Sleep Lullaby Academy,False,0gbV8f55SyPxhOhLBXjVf9,Lullaby Song,2018-11-05T10:36:41.086Z
+Trouble Sleeping Music Universe,False,6eaZ2Z7s0UKpA32zQaKH29,Calm in Your Soul,2018-11-05T10:32:36.029Z
+Baby Sleep Lullaby Academy,False,7dlVVbIy9yVH3a1Md4XMk5,Crystal Night,2018-11-05T10:28:44.838Z
+Smart Baby Academy,False,0f9Cv1eLGTPYi6Ie3AFHCi,Soothing Noise,2018-11-05T10:24:46.506Z
+Baby Sleep Lullaby Academy,False,5dYGrOlxDiibQ2qiVe8aNI,Meditation for the Dreams,2018-11-05T10:21:19.960Z
+Smart Baby Academy,False,5YQJ32b4AN17U9Jclx9RnM,Good Sleep (Ocean Waves),2018-11-05T10:17:49.985Z
+Trouble Sleeping Music Universe,False,6iDTGORQJvCMSPEfBZ4JNO,Natural Sleep Solutions,2018-11-05T10:13:56.135Z
+Smart Baby Academy,False,1hSuQ4WsNtIPNdZlPQtw9u,Peaceful Night,2018-11-05T10:10:48.769Z
+Baby Sleep Lullaby Academy,False,3X9som80TEjYzoHgdhUIuo,Peaceful Mind,2018-11-05T10:07:34.587Z
+Insomnia Music Universe,False,6fgu9UCn9Vegz9xm3PFXT0,Toddler Relaxation,2018-11-05T10:03:40.852Z
+Smart Baby Academy,False,2DncBUv89mIY43KVAk92UC,Deep Meditation for Healing,2018-11-05T10:00:28.032Z
+Soothing Chill Out for Insomnia,False,4dRJseRr87t4gPLW353SXa,Sleep Meditation,2018-11-05T09:56:27.325Z
+Smart Baby Academy,False,1IEHC7ngZGpp6yXeuYVUe7,Little Dreams,2018-11-05T09:52:29.062Z
+Smart Baby Academy,False,0cF6v4bawDwCqUKJc9QT89,Calm Down,2018-11-05T09:48:34.300Z
+Baby Sleep Lullaby Academy,False,0PlDNQbMpqhUy8EMAruwTk,Sleep Naturally,2018-11-05T09:44:32.032Z
+Trouble Sleeping Music Universe,False,7zXt4heNRTcK8cPI0gK6xi,Waterfalls and Dreams,2018-11-05T09:40:53.889Z
+Soothing Chill Out for Insomnia,False,5W1YGKdIfDa5BtbH9KCQrs,Dreaming (Relaxing Guitar),2018-11-05T09:37:29.463Z
+Soothing Chill Out for Insomnia,False,0gJnFMYQnZ07Ovs4tBp41k,Inner Peace,2018-11-05T09:33:50.670Z
+Smart Baby Academy,False,22fegsxqAuEcsdUMrAHslc,True Life (Ambient Forest),2018-11-05T09:29:46.409Z
+Soothing Chill Out for Insomnia,False,5cjhhTSK1pRENAYFW9We9g,REM Phase (Flute Music),2018-11-05T09:26:15.426Z
+Trouble Sleeping Music Universe,False,7KY4NaFW7YnEaEl0oWOv20,Listen Silence (Calmness Sounds),2018-11-05T09:21:44.345Z
+Baby Sleep Lullaby Academy,False,7tk9EhNqXYPMU0vUmA0UF8,Positive Thoughts,2018-11-05T04:26:17.311Z
+Trouble Sleeping Music Universe,False,4H8Xro0suwDd9subcdT7pD,Nature Sounds,2018-11-05T03:48:29.338Z
+Soothing Chill Out for Insomnia,False,5Ia0KM3GztFwFXf2ewEf0U,Goodnight Song (Kalimba),2018-11-05T03:43:58.560Z
+Trouble Sleeping Music Universe,False,75G6u1WOnSTtClv2n4wqIl,Therapy of Chakra,2018-11-05T03:39:57.476Z
+Soothing Chill Out for Insomnia,False,39LODsFh8Y3K7dnspcu4bX,Yoga Meditation,2018-11-05T03:36:15.750Z
+Soothing Chill Out for Insomnia,False,1R4dk6fOaPNjYFbiJrOQs2,Reduce Stress,2018-11-05T03:32:35.420Z
+Trouble Sleeping Music Universe,False,2it6VyZCm3pBb3O1tCZnB4,Tranquility,2018-11-05T03:28:53.311Z
+Baby Sleep Lullaby Academy,False,1gUNRlq8FBpxttWiO9JqNA,Soothing Music,2018-11-05T03:25:05.535Z
+Baby Sleep Lullaby Academy,False,3IYSVIufYmn6aPpvbU8R3d,Inspirational Dreams,2018-11-05T03:21:04.298Z
+Smart Baby Academy,False,37sgOyLIs612J5fZoH2gpe,Falling Asleep,2018-11-05T03:18:14.370Z
+Trouble Sleeping Music Universe,False,1NI4bMcCKw3Tj3x0esLp5c,Bedtime Story,2018-11-05T03:15:01.355Z
+Insomnia Music Universe,False,4RptJKrPV1ZMSbIOCwbT7m,Anti Stress Place,2018-11-05T03:11:19.043Z
+Baby Sleep Lullaby Academy,False,3z8Jrw7dEW4HUaWOLLcPRC,New Age Meditation,2018-11-05T03:06:44.995Z
+Baby Sleep Lullaby Academy,False,45rAccjaQV8aB9fqBpQvTF,Insomnia Cures,2018-11-05T02:51:31.434Z
+Baby Sleep Lullaby Academy,False,4sXRTZ7oMfOaAaDdfn6AIi,Moonlight Melody,2018-11-05T02:47:00.271Z
+Smart Baby Academy,False,5kMlQac4foBgOujUKbiLf3,Deep Sleep (Sea Waves),2018-11-05T02:42:46.503Z
+Soothing Chill Out for Insomnia,False,70Kgtkq3bJBT7ipmmCMw9r,Healing Evolution,2018-11-05T02:39:13.264Z
+Smart Baby Academy,False,0FQlDdmpv4Ozw5mpK52yWJ,Morning Birds (Rest),2018-11-05T02:36:04.729Z
+Smart Baby Academy,False,13y6TzX4TosPxrjXmcUBVg,Reiki Massage,2018-11-05T02:32:28.385Z
+Soothing Chill Out for Insomnia,False,2LMKGgdgQb78GAgMSJAewW,Sleep Music to Help You Relax All Nigh,2018-11-05T02:28:09.895Z
+Portugal. The Man,True,1lpN3qsugqtMR49xwzHYnt,Creep In A T-Shirt,2018-11-05T02:24:43.706Z
+Portugal. The Man,False,2VjySzgGQeZcMGWuPMAnBF,Plastic Soldiers,2018-11-04T23:39:44.687Z
+Gabriel Kahane,False,0l3vWfdfhIyWDZwDl40vHQ,Black Garden (2673 Dundee Pl.),2018-11-04T23:34:20.083Z
+Gabriel Kahane,False,1Z2uOoVOaZMYNpDHHYpVNs,Griffith Park (2800 E. Observatory Ave.),2018-11-04T23:31:25.495Z
+"Ariana Grande, Nicki Minaj",True,1pKeFVVUOPjFsOABub0OaV,Side To Side,2018-11-08T15:54:39.349Z
+Ariana Grande,True,7u6DMPznGbpziuEgCE0JGQ,get well soon,2018-11-08T15:50:49.286Z
+Ariana Grande,True,14kYOiFVPb7E7NfFbqhdln,goodnight n go,2018-11-08T15:45:30.560Z
+Tame Impala,True,6K4t31amVTZDgR3sKmwUJJ,The Less I Know The Better,2018-11-08T15:42:20.550Z
+Ariana Grande,True,5OCJzvD7sykQEKHH7qAC3C,God is a woman,2018-11-08T15:38:43.891Z
+MADEIRA,False,2p7TCbMW9XNONIgqG2mj9q,Manipulator,2018-11-08T03:43:07.351Z
+Part Time,False,3nNNsZcRqeUbva8LWkUjto,Cassie (Won’t You Be My Doll),2018-11-08T02:59:02.600Z
+"Wolf Alice, Charli XCX, Post Precious",False,4sA8sHd9o1NbsdkfHNwNPd,Don't Delete The Kisses - Charli XCX x Post Precious Remix,2018-11-08T02:55:25.672Z
+Martin Jensen,False,3R6dPfF2yBO8mHySW1XDAa,Solo Dance,2018-11-08T02:51:04.865Z
+Alvvays,False,5HLes17mwCwKt81mi0Tk35,"Archie, Marry Me",2018-11-08T02:48:09.596Z
+A R I Z O N A,False,6A8dnC0xkiuWN4BshmTB2I,Oceans Away,2018-11-08T02:44:52.631Z
+"A R I Z O N A, Kiiara",False,6JsfvqClYnc2R5yZ67C2ch,Cross My Mind Pt. 2 (feat. Kiiara),2018-11-08T02:41:37.824Z
+"Cosmo's Midnight, KUČKA",False,17CULb9h3QZa1IxJSVT31m,Walk With Me,2018-11-08T02:34:38.300Z
+Camila Cabello,False,4eWQlBRaTjPPUlzacqEeoQ,Never Be the Same,2018-11-08T02:22:02.460Z
+Lorde,False,6IIcLzR05sN1gk4ngzz7Kk,Supercut,2018-11-08T02:18:14.886Z
+Infected Mushroom,False,1n3zxreoEYtfbqxw9dKGM1,Where Do I Belong,2018-11-08T02:13:36.849Z
+"A R I Z O N A, Kiiara",False,6JsfvqClYnc2R5yZ67C2ch,Cross My Mind Pt. 2 (feat. Kiiara),2018-11-08T01:53:30.554Z
+A R I Z O N A,False,6A8dnC0xkiuWN4BshmTB2I,Oceans Away,2018-11-08T01:49:51.701Z
+Pendulum,False,26s79pNvksAh8tlEembKm3,The Island - Pt. II (Dusk),2018-11-08T01:46:37.694Z
+Charli XCX,False,1KPS1MHPrq9uPklJX8Q4XW,ILY2,2018-11-08T01:42:27.701Z
+Pendulum,False,5E1UIRcuHd7Rr7PYbQSEOu,Set Me On Fire,2018-11-08T01:39:10.372Z
+Alvvays,False,4B0DKl08l4AJflQmZkEDvQ,Lollipop (Ode To Jim),2018-11-08T01:34:07.049Z
+Infected Mushroom,False,1n3zxreoEYtfbqxw9dKGM1,Where Do I Belong,2018-11-08T01:30:48.809Z
+"Camila Cabello, Young Thug",False,1rfofaqEpACxVEHIZBJe6W,Havana,2018-11-08T01:27:23.141Z
+Part Time,False,1iJSpNeq4XleP4BOcPwMXt,Honey Lips,2018-11-08T01:24:33.078Z
+David Heartbreak,False,6RBdbgLbOwDZ01OuMzsckx,Rose Colored Bass - Bassnectar Remix,2018-11-08T01:21:33.981Z
+"Bassnectar, W. Darling",False,3x94KfC5QAsqFKjUGQBH4k,You & Me (feat. W. Darling),2018-11-08T01:17:50.773Z
+The Dear Hunter,False,7yg3UIbYx9kiOWHoGtFMqG,The Moon / Awake,2018-11-08T01:13:45.809Z
+Ariana Grande,True,7u6DMPznGbpziuEgCE0JGQ,get well soon,2018-11-08T01:07:36.183Z
+Ariana Grande,True,5OCJzvD7sykQEKHH7qAC3C,God is a woman,2018-11-08T01:02:13.195Z
+Flume,False,2mzJR8lnV8NPpiLBSTWR3l,Heater,2018-11-07T22:48:11.723Z
+"Flume, KUČKA",False,5NsruZ9uIydV0A196WZjkV,Hyperreal,2018-11-07T22:44:06.021Z
+"Flume, Chet Faker",False,150zGw0P2EJccYJKnFIler,Drop The Game,2018-11-07T22:39:51.473Z
+Flume,False,1QgGyNtuFClzvZnNCofqsF,Warm Thoughts,2018-11-07T22:36:09.127Z
+"Flume, Isabella Manfredi",False,4uFBsTEtcEd3cRNwLkiW1c,The Greatest View,2018-11-07T22:32:20.219Z
+"Flume, Jezzabell Doran",False,0XzyXP0E9jsoOwu5Rd7hTV,Sleepless,2018-11-07T22:28:16.168Z
+"Flume, Little Dragon",False,44dFOGFKVgNrx6UilTRVfZ,Take a Chance (feat Little Dragon),2018-11-07T22:24:46.312Z
+"Flume, Stalley",False,3IvSZ5Xihl5E1dcu7PpmDg,Intro,2018-11-07T22:00:08.238Z
+"Flume, Kai",True,5WI2ltQIdwgzf1SNE76JyR,Never Be Like You (feat. Kai),2018-11-07T21:56:13.631Z
+Seekae,False,7qNWSAnjf9fhoeCNNAIjGo,Test & Recognise - Flume Re-work,2018-11-07T21:43:35.457Z
+"Flume, Vince Staples, Ngaiire, Vera Blue, KUČKA",False,2Ou23o8Cqkrn46rLKLDLK6,"My Boo (feat. Vince Staples, Kučka, Ngaiire, Vera Blue) [Triple J Like A Version]",2018-11-07T21:38:31.315Z
+The Dear Hunter,False,0VgWaVNJdZPhgYpXZaQAr0,All Is as All Should Be,2018-11-07T21:34:40.668Z
+Ariana Grande,True,70khXICDeTTxgYtw3EysKH,sweetener,2018-11-07T20:58:53.955Z
+Grimes,False,4ZcGbQ5dOKX6rJk4yvza9R,Flesh without Blood,2018-11-07T20:55:24.732Z
+Ariana Grande,True,5OCJzvD7sykQEKHH7qAC3C,God is a woman,2018-11-07T20:50:59.761Z
+The Dear Hunter,False,1l2X7lELrYbR1TQNtupMt5,Witness Me,2018-11-07T18:16:03.039Z
+The Dear Hunter,False,4EgznqHArk5RRgW269eoIx,Shake Me (Awake),2018-11-07T18:11:37.400Z
+The Dear Hunter,False,7txzPh6UbUbb5srzK7WRzO,Beyond the Pale,2018-11-07T18:07:42.443Z
+The Dear Hunter,False,2lMGV7K3osX4BncAn13Ea5,Blame Paradise,2018-11-07T18:04:26.448Z
+The Dear Hunter,False,1DmaLXSurJ0OixnQnNI4Jy,The Right Wrong,2018-11-07T18:00:45.878Z
 Gipsy Kings,False,0Nx5c4i2z90wi8Uj6LbUbH,A Mi Manera,2018-11-09T17:29:43.874Z
 Chon,False,5gBFVFyPYNEySxxirOqPnx,Ecco,2018-11-09T17:25:51.946Z
 "Charli XCX, Lil Yachty",False,0y8Wf6ltWpGCpgqVa21QNX,After The Afterparty (feat. Lil Yachty),2018-11-09T16:27:57.683Z
@@ -49,6 +864,56 @@ Plini,False,6zeF1XEs15ul4pUZxk8hhy,Other Things,2018-11-09T04:10:30.427Z
 Plini,False,1IlCwH3SJMizQyEuryV1qg,Cascade,2018-11-09T04:07:26.017Z
 Plini,False,25RDHbzKzGSUefENv5uz9M,Every Piece Matters,2018-11-09T04:01:25.393Z
 Plini,False,6Xt5aQFfyYbHTAAbg91LUM,1745 7381 3265 2578,2018-11-09T03:57:44.661Z
+Plini,False,6nEU8smDVQD7w2oMMhpEqP,Inhale,2018-11-09T03:54:41.414Z
+Plini,False,18pIsa1XH5Eap4SBcSH4Xd,Selenium Forest,2018-11-09T03:49:43.035Z
+Plini,False,7EI0LzrtgucQujRzDd0D3m,Salt + Charcoal,2018-11-09T03:43:36.876Z
+Plini,False,5QruhkvTtEi6cR8nSr6LwT,Opening,2018-11-09T03:39:06.381Z
+Plini,False,4RMB0R4G4wsT4LbO7FjweB,Ko Ki,2018-11-09T03:33:58.156Z
+Plini,False,7EiOaCpj1RLKTYCPw5fQdi,Kind,2018-11-09T03:30:37.683Z
+Plini,False,1zlxp9YCLz48oxt9ynuWOR,The End of Everything,2018-11-09T03:26:37.235Z
+Plini,False,06rZ5rpPB456du5dceTv18,Cloudburst,2018-11-09T03:22:30.620Z
+"Plini, Anomalie",False,634A7WP6MPVkFJrSV1KnGm,Flâneur,2018-11-09T03:18:56.526Z
+Plini,False,1TzoCGN6NdcCcenpb5jsHS,"Here We Are, Again",2018-11-09T03:12:56.031Z
+Plini,False,4MquGRFKE1Sj8QTrZDNFeg,Pastures,2018-11-09T03:10:18.223Z
+Plini,False,28uTV1xcMTcIPTsKVbyhFV,Electric Sunrise,2018-11-09T03:02:43.814Z
+Gipsy Kings,False,5SfNiA5EpsucwknkWuicsc,Vamos A Bailar,2018-11-09T02:57:39.488Z
+The Dear Hunter,False,4EgznqHArk5RRgW269eoIx,Shake Me (Awake),2018-11-09T00:22:38.223Z
+The Dear Hunter,False,2lMGV7K3osX4BncAn13Ea5,Blame Paradise,2018-11-09T00:21:44.620Z
+Pentatonix,False,4z8sz6E4YyFuEkv5o7IJni,"Mary, Did You Know?",2018-11-09T00:18:02.816Z
+Gipsy Kings,False,06UAZUY5qyFy50poO0nLBY,Volare,2018-11-08T23:23:26.576Z
+Gipsy Kings,False,4EveU9Zb50mjgi5avDNqlK,Bamboleo,2018-11-08T23:19:47.640Z
+Gipsy Kings,True,59oAZ05jBSXMP7cSdzUC0z,Un Amor,2018-11-08T23:16:22.289Z
+Gipsy Kings,False,0Nx5c4i2z90wi8Uj6LbUbH,A Mi Manera,2018-11-08T23:12:44.421Z
+"Sango, Faktiss, Chris McClenney",False,4xzUN1LCcqPwLoPaVwxXjV,Na Hora (feat. Faktiss & Chris MC Clenney),2018-11-08T23:08:52.640Z
+Sango,False,2lXrXXhE1TjPgUjU6qiNQA,Fevereiro,2018-11-08T22:12:37.799Z
+Sango,False,7yxZSyV86ZHLbaugsqs8K7,Speak,2018-11-08T22:09:36.649Z
+Sango,False,6wiXHdyIsOXJPGn7ikCwv6,Esperado,2018-11-08T22:06:02.428Z
+"Ryahn, Sango",True,4JAj0NAUyFEwzqGoxvNZH1,Popstar,2018-11-08T22:02:57.281Z
+Ariana Grande,True,5OCJzvD7sykQEKHH7qAC3C,God is a woman,2018-11-10T01:38:50.441Z
+Eminem,True,7lQ8MOhq6IN2w8EYcFNSUk,Without Me,2018-11-10T01:35:32.675Z
+Pentatonix,False,4z8sz6E4YyFuEkv5o7IJni,"Mary, Did You Know?",2018-11-10T01:30:41.884Z
+"Bassnectar, Lafa Taylor",False,1ti43ZT6bc4o1eGOSnBHkO,Speakerbox (feat. Lafa Taylor),2018-11-10T01:27:17.786Z
+"Bassnectar, Jantsen, RD",False,3wWOi4PlqODQJVhN6PY2lQ,Heavyweight Sound (feat. RD),2018-11-10T01:22:26.422Z
+"Bassnectar, W. Darling",False,3x94KfC5QAsqFKjUGQBH4k,You & Me (feat. W. Darling),2018-11-09T21:33:51.757Z
+"Bassnectar, Seth Drake",False,7vFQliBjsAIfpteEzYOCOS,F.U.N.,2018-11-09T21:29:24.151Z
+Wintergatan,False,33m0aVQvsfvanuwG6rByrd,Sommarfågel - Bassnectar Remix,2018-11-09T21:24:41.617Z
+"Bassnectar, Jantsen, RD",False,3wWOi4PlqODQJVhN6PY2lQ,Heavyweight Sound (feat. RD),2018-11-09T21:21:41.003Z
+"Bassnectar, Lafa Taylor",False,1ti43ZT6bc4o1eGOSnBHkO,Speakerbox (feat. Lafa Taylor),2018-11-09T21:17:02.429Z
+"Rusko, Bassnectar",False,4iPzWylVMumfmvSaF0zmPg,High - Bassnectar Remix,2018-11-09T21:17:01.998Z
+"Bassnectar, Jantsen, RD",False,3wWOi4PlqODQJVhN6PY2lQ,Heavyweight Sound (feat. RD),2018-11-09T20:25:24.014Z
+Pentatonix,False,4z8sz6E4YyFuEkv5o7IJni,"Mary, Did You Know?",2018-11-09T20:20:32.852Z
+"Charli XCX, MØ",False,5cAokEuetqzaLMxhtQl4h2,Porsche (feat. MØ),2018-11-09T20:17:10.385Z
+Ariana Grande,True,14kYOiFVPb7E7NfFbqhdln,goodnight n go,2018-11-10T01:39:59.006Z
+The Dear Hunter,False,2lMGV7K3osX4BncAn13Ea5,Blame Paradise,2018-11-10T19:33:48.321Z
+The Dear Hunter,False,1DmaLXSurJ0OixnQnNI4Jy,The Right Wrong,2018-11-10T19:30:07.974Z
+"Bassnectar, Seth Drake",False,7vFQliBjsAIfpteEzYOCOS,F.U.N.,2018-11-10T19:25:27.941Z
+Part Time,False,1iJSpNeq4XleP4BOcPwMXt,Honey Lips,2018-11-10T19:20:45.541Z
+Ariana Grande,True,5OCJzvD7sykQEKHH7qAC3C,God is a woman,2018-11-10T19:17:46.064Z
+Plini,False,7EI0LzrtgucQujRzDd0D3m,Salt + Charcoal,2018-11-10T18:25:02.868Z
+Plini,False,28uTV1xcMTcIPTsKVbyhFV,Electric Sunrise,2018-11-10T18:20:32.948Z
+Sia,False,1N1ZpYUJc9fwrqk53FGgWv,Santa's Coming For Us,2018-11-10T18:15:29.450Z
+Pentatonix,False,4z8sz6E4YyFuEkv5o7IJni,"Mary, Did You Know?",2018-11-10T18:08:38.150Z
+"Mr. Projectile, Bassnectar",False,5qRoiTrXaFA5qHYsoeNdYG,I Am Back - Bassnectar Remix,2018-11-10T18:05:15.724Z
 The Glitch Mob,False,5HGuntX5GjOaoIf9ubYMUI,Fly by Night Only - Yaarrohs Cover,2018-11-11T04:53:34.519Z
 The Glitch Mob,False,5IG2ks1wL6nm0efZGpRNPN,A Dream Within A Dream,2018-11-11T04:51:05.302Z
 "The Glitch Mob, Eprom",False,2m1pIzKXtZu1UlGcWX7Wbr,Skullclub - Eprom Remix,2018-11-11T04:45:41.142Z
