@@ -39,21 +39,17 @@ links.forEach(function(link) {
   link.target = my_nodes[link.target] ;
 });
 
-var w = 800,
-    h = 800;
+var w = 2100,
+    h = 2000;
 
 var force = d3.layout.force()
     .nodes(d3.values(my_nodes))
     .links(links)
     .size([w, h])
-    .linkDistance(50)
-    .charge(-800)
+    .linkDistance(300)
+    .charge(-2500)
     .on("tick", tick)
-    .linkStrength(function(link) {
-       // return Math.log(parseFloat(link.dist), 10)/5.
-       //return link.dist/500000
-       return parseFloat(link.dist) * parseFloat(link.dist)
-    }).start()
+	.start()
     
 
 var svg = d3.select("body").append("svg:svg")
@@ -89,22 +85,24 @@ var circle = svg.append("svg:g").selectAll("circle")
     .call(force.drag)
     .on("mouseover", function(d) {
   d3.select(this).transition().attr("r", d.count + 5);
-  path.style('stroke-width', function(l) {
+  d3.selectAll("path.link").transition().style('stroke-width', function(l) {
     if (d === l.source || d === l.target)
-      return 4;
+      return 2.5;
     else
       return 1.5;
-    }).style('stroke-opacity', function(l){
+    }).style('opacity', function(l){
     if (d === l.source || d === l.target)
       return 1;
     else
-      return 0.1;
+      return 0.05;
     });
 })                  
 .on("mouseout", function(d) {
   d3.select(this).transition().attr("r", d.count);
   path.style('stroke-width', 1.5);
-  path.style('stroke-opacity', 0.3);
+	d3.selectAll("path.link")
+  .transition()
+  .style("opacity", 0.1);
 });
 
 var text = svg.append("svg:g").selectAll("g")
