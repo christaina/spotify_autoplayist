@@ -36,8 +36,8 @@ links.forEach(function(link) {
   link.target = my_nodes[link.target] ;
 });
 
-var w = 5000,
-    h = 5000;
+var w = 4000,
+    h = 4000;
 
 var force = d3.layout.force()
     .nodes(d3.values(my_nodes))
