@@ -66,7 +66,7 @@ After listening to several songs from an artist I usually find one in particular
 
 I have songs that I'll listen to every day no matter what the context is. Right before I started this project, I went to a Bassnectar concert. I got super in Bassnectar and have been listening to **You & Me** and **F.U.N.** pretty much all the time--which is why they're the biggest and most connected nodes in this graph. I also listen to them consecutively most of the time, which is why there is a heavy line between them (the graph is designed such that more consecutive listens=darker).
 
-<img src="../imgs/Bassnectar.png" width="600"  style="border:1px solid #000000">
+<img src="../imgs/bassnectar.png" width="600"  style="border:1px solid #000000">
 
 I also listen to the album Immersion by Pendulum a lot. Sometimes, I'll just put on a bunch of songs in this album (explains why they're close to one-another in the graph). But I'll also put on my extra favorite songs from the album in many contexts. Songs like The Vulture, The Fountain, and The Island - Pt. II) are closer to the center of the graph and more densely connected, while still being close to other songs from this album.
 
