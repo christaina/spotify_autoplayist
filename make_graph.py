@@ -52,6 +52,8 @@ if __name__=="__main__":
 
     graph_cnt_threshold = 1 
     song_grp_threshold = 60 * 10 
+    song_distance_threshold = 6
+
     songs = pd.read_csv(song_hist_path)
 
     # parse date played at from str
@@ -70,7 +72,7 @@ if __name__=="__main__":
     song_counts = dict(Counter(songs.name))
     songs_cartesian = pd.merge(songs, songs, on=['group'], how='outer', suffixes=['_to', '_from'])
     songs_cartesian = songs_cartesian[songs_cartesian.played_at_from != songs_cartesian.played_at_to]
-    songs_cartesian = songs_cartesian[songs_cartesian.apply(lambda r: np.abs(r['grp_idx_to'] - r['grp_idx_from']) < 6,axis=1)]
+    songs_cartesian = songs_cartesian[songs_cartesian.apply(lambda r: np.abs(r['grp_idx_to'] - r['grp_idx_from']) < song_distance_threshold,axis=1)]
     songs_cartesian['delta_s'] = songs_cartesian.apply(lambda r: (np.abs(r['played_at_to'] - r['played_at_from']).total_seconds()), axis=1)
     songs_cartesian = songs_cartesian.sort_values(['name_to', 'name_from']).drop_duplicates(subset=['group', 'delta_s'])
     songs_cartesian['scaled_delta_s'] = minmax_scale(songs_cartesian.delta_s)

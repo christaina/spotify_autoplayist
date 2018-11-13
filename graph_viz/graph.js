@@ -23,9 +23,6 @@ for (var i=0; i<links.length; i++) {
     if (i != 0 &&
         links[i].source.id == (links[i-1].source.id ) &&
         links[i].target.id == (links[i-1].target.id )) {
-      //  console.log('found:')
-       // console.log(links[i])
-      //  console.log(links[i-1])
             links[i].linknum = links[i-1].linknum + 1;
         }
     else {links[i].linknum = 1;};
@@ -39,8 +36,8 @@ links.forEach(function(link) {
   link.target = my_nodes[link.target] ;
 });
 
-var w = 2100,
-    h = 2000;
+var w = 3500,
+    h = 3500;
 
 var force = d3.layout.force()
     .nodes(d3.values(my_nodes))
