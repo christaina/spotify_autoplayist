@@ -49,14 +49,17 @@ The data visualization highlights several listening patterns that I want to poin
 
 In the case when I am checking out a new artist, I'll just listen to one of their albums or their popular tracks on Spotify. I'll listen to a lot of different songs until I find specific ones I like.
 
+Listening to Flume (this is actually my own Flume playlist that I put on sometimes):
+
 <img src="../imgs/flume.png" width="600"  style="border:1px solid #000000">
-Listening to Flume (this is actually my own Flume playlist that I put on sometimes)
+
+Listening to Tesseract:
 
 <img src="../imgs/tessarect.png" width="600"  style="border:1px solid #000000">
-Listening to tessarect
+
+Listening to Polyphia--I was going to go to a concert of theirs and a friend made me a playlist of their music:
 
 <img src="../imgs/polyphia_grp.png" width="600"  style="border:1px solid #000000">
-Listening to Polyphia--I was going to go to a concert of theirs and a friend made me a playlist of their music.
 
 After listening to several songs from an artist I usually find one in particular that I really like. I had been listening to Plini, and really started to like their song **Electric Sunrise**. You can see that I had been listening to a lot of Plini songs in the same session (orange edge), but then started listening to Electric Sunrise outside of just listening to Plini.
 
