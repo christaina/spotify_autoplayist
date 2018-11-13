@@ -2,7 +2,7 @@ path.link {
   fill: none;
   /*stroke: #D3D3D3;*/
   stroke-width: 1.5px;
-   opacity: 0.3;
+  opacity: 0.1;
 }
 
 marker#licensing {
