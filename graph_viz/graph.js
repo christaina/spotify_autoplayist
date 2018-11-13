@@ -36,15 +36,15 @@ links.forEach(function(link) {
   link.target = my_nodes[link.target] ;
 });
 
-var w = 4000,
-    h = 4000;
+var w = 3000,
+    h = 3000;
 
 var force = d3.layout.force()
     .nodes(d3.values(my_nodes))
     .links(links)
     .size([w, h])
     .linkDistance(200)
-    .charge(-2500)
+    .charge(-2000)
     .on("tick", tick)
 	.start()
     
