@@ -4,7 +4,7 @@ A project to store my song history and eventually do data viz + automatic playli
 
 # Visualization
 
-View graph visualization [here](https://christaina.github.io/spotify_autoplayist/graph_viz/)
+View graph visualization [here](https://christaina.github.io/spotify_autoplayist/graph_viz/). Writeup [here](https://github.com/christaina/spotify_autoplayist/blob/master/writeup/viz_outline.md).
 
 # Environment
 
