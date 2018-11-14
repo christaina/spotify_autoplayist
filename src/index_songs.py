@@ -1,3 +1,5 @@
+"""Script to update Spotify song listening history"""
+
 import spotipy
 import spotipy.util as util
 import pandas as pd
@@ -45,7 +47,19 @@ def load_last_indexed(last_indexed_path):
     last_idxed = open(last_indexed_path).read().strip()
     return parse(last_idxed)
 
-def find_last_indexed(song_df, last_index_path):
+def find_last_indexed(song_df):
+    """Find the time song history was indexed
+    
+    Parameters
+    ----------
+    song_df: pandas.DataFrame
+        DF with recent song listening hist
+
+    Returns
+    -------
+    str
+        New indexed time
+    """
     # sort by parsed date
     sorted_song_times = sorted(song_df.played_at, key=lambda x: parse(x))
     # get latest date
@@ -92,6 +106,8 @@ if __name__=='__main__':
     print(f"Found {len(filt_song_history)} new songs in your history!")
 
     save_dir = os.path.dirname(song_history_path)
+
+    # make directory to save if it doesnt exist
     if not os.path.exists(save_dir):
         os.makedirs(save_dir)
 
