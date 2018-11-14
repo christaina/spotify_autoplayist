@@ -2,3 +2,4 @@ data/
 .cache*
 *.py.swp
 .ipynb_checkpoints/
+src/index_songs.sh
